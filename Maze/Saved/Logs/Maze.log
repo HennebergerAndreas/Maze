@@ -930,3 +930,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.20-00.32.44:339][  0]LogAssetRegistry: Asset discovery search completed in 7.9372 seconds
 [2020.09.20-00.32.44:344][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2020.09.20-00.32.44:345][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.20-00.57.00:627][171]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.20-00.57.00:702][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-00.57.00:717][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.09.20-00.57.00:731][171]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1282F7C32447296029DD904A9E11ACA66.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-00.57.00:733][171]LogFileHelpers: Saving map 'Maze1' took 0.032
+[2020.09.20-00.57.00:852][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.09.20-00.57.00:873][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.09.20-00.57.00:882][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.09.20-00.57.00:914][171]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-00.57.00:914][171]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-00.57.52:095][703]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Maze1.Maze1
+[2020.09.20-00.57.52:109][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.09.20-00.57.52:112][703]Cmd: MAP LOAD FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.20-00.57.52:112][703]LightingResults: New page: Lighting Build
+[2020.09.20-00.57.52:112][703]LoadErrors: New page: Loading map: Maze1.umap
+[2020.09.20-00.57.52:114][703]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.09.20-00.57.52:115][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.20-00.57.52:115][703]MapCheck: New page: Map Check
+[2020.09.20-00.57.52:115][703]LightingResults: New page: Lighting Build
+[2020.09.20-00.57.52:129][703]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A3E3DA4C00), frame # 10703
+[2020.09.20-00.57.52:129][703]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A3E3C29440), frame # 10703
+[2020.09.20-00.57.52:130][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.09.20-00.57.52:133][703]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.20-00.57.52:133][703]LogAIModule: Creating AISystem for world Maze1
+[2020.09.20-00.57.52:133][703]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002A391D43600), frame # 10703
+[2020.09.20-00.57.52:134][703]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002A391F96AC0), frame # 10703
+[2020.09.20-00.57.52:145][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.09.20-00.57.52:170][703]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.20-00.57.52:170][703]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2020.09.20-00.57.52:170][703]LogFileHelpers: Loading map 'Maze1' took 0.059
+[2020.09.20-00.59.15:944][855]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.20-01.02.17:847][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-01.02.17:863][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.09.20-01.02.17:882][ 74]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1BBACA9A24EDF922AC64935A2B3DBA0D6.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-01.02.17:922][ 74]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-01.02.17:922][ 74]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-01.02.45:928][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-01.02.45:938][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.09.20-01.02.45:954][432]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1F6975C584D3B7EB2616C0B94B7308027.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-01.02.45:971][432]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-01.02.45:971][432]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-01.03.16:801][714]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.20-01.04.14:589][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-01.04.14:601][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.09.20-01.04.14:618][161]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze11361244A49CDADD18A4CDE8BED607A26.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-01.04.14:637][161]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-01.04.14:638][161]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-01.04.33:429][900]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.20-01.05.11:454][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-01.05.11:464][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.09.20-01.05.11:481][174]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1DC2317E54A0296B3B2DF9CAFB4C8A30B.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-01.05.11:500][174]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-01.05.11:501][174]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-01.06.23:834][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-01.06.23:843][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.09.20-01.06.23:860][659]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1CE4E0F6A448884CC36F800BB3E8832FB.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-01.06.23:880][659]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-01.06.23:880][659]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-01.07.19:026][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-01.07.19:037][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.09.20-01.07.19:060][401]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze112A18D5D49D233A12EA6D8BF2022793F.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-01.07.19:080][401]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-01.07.19:080][401]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-01.07.19:926][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-01.07.19:936][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.09.20-01.07.19:953][450]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze14F8385814DEB07F9606606B01EFA43A3.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-01.07.19:970][450]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-01.07.19:970][450]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-01.07.47:498][743]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.20-01.10.49:584][376]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.09.20-01.11.09:176][ 64]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.20-01.17.20:246][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.09.20-01.17.20:251][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.20-01.17.20:285][895]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_Auto13829C5BB422FBBFC1997A699FCB6D66F.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto1.umap'
+[2020.09.20-01.17.20:287][895]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Maze1' took 0.056
+[2020.09.20-01.17.20:287][895]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
