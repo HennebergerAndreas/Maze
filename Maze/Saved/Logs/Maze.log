@@ -1006,3 +1006,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.20-01.17.20:285][895]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_Auto13829C5BB422FBBFC1997A699FCB6D66F.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto1.umap'
 [2020.09.20-01.17.20:287][895]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Maze1' took 0.056
 [2020.09.20-01.17.20:287][895]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2020.09.20-01.34.08:899][964]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.09.20-01.35.21:901][785]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.20-01.36.35:157][921]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.20-01.36.44:399][440]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.20-01.37.02:855][567]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MazeGameMode.MazeGameMode
+[2020.09.20-01.37.03:252][567]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 125 classes and 0 folders.
+[2020.09.20-01.37.04:832][568]LogRenderer: Reallocating scene render targets to support 1208x760 Format 10 NumSamples 1 (Frame:1).
+[2020.09.20-01.38.31:415][831]LogSlate: Window 'MazeGameMode' being destroyed
+[2020.09.20-01.38.31:434][831]LogSlate: Window 'MazeGameMode' being destroyed
+[2020.09.20-01.38.31:460][831]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.20-01.38.31:460][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.20-01.38.47:337][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-01.38.47:365][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.09.20-01.38.47:393][ 11]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1D9AD4E3F47F2E7B8BB0A40998B400457.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-01.38.47:477][ 11]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-01.38.47:477][ 11]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-01.38.48:105][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-01.38.48:123][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.09.20-01.38.48:141][ 46]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze15B90A2EC4FEB9F1380C9F2AC9A086B11.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-01.38.48:210][ 46]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-01.38.48:211][ 46]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-01.39.02:866][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.20-01.39.02:883][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.09.20-01.39.02:902][218]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1323095614E2F0464C6F97387F610EFE9.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.20-01.39.02:969][218]AssetCheck: New page: Asset Save: Maze1
+[2020.09.20-01.39.02:969][218]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.20-01.40.28:578][299]LogSlate: Window 'Project Settings' being destroyed
