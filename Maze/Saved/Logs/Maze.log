@@ -3680,3 +3680,1655 @@ Are you sure?
 [2020.09.22-14.58.26:743][524]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.22-14.58.26:743][524]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
 [2020.09.22-14.58.26:743][524]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
+[2020.09.22-15.01.32:192][321]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.22-15.01.32:211][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.22-15.01.32:211][321]PIE: New page: PIE session: Maze1 (Sep 22, 2020, 7:01:32 PM)
+[2020.09.22-15.01.32:211][321]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Maze1
+[2020.09.22-15.01.32:225][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013078s)
+[2020.09.22-15.01.32:226][321]LogAIModule: Creating AISystem for world Maze1
+[2020.09.22-15.01.32:226][321]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B733276E00), frame # 185321
+[2020.09.22-15.01.32:226][321]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B707E725C0), frame # 185321
+[2020.09.22-15.01.32:226][321]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2020.09.22-15.01.32:226][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Maze1.Maze1 to /Game/Maps/UEDPIE_0_Maze1.Maze1 (0.014635s)
+[2020.09.22-15.01.32:243][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.09.22-15.01.32:245][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.22-15.01.32:245][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.22-15.01.32:245][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.22-15.01.32:245][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.22-15.01.32:245][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.22-15.01.32:245][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.22-15.01.32:245][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.22-15.01.32:246][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.22-15.01.32:246][321]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.22-15.01.32:246][321]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.22-15.01.32:248][321]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.22-15.01.32:248][321]LogAudioMixer: Display: 1: FrontRight
+[2020.09.22-15.01.32:265][321]LogAudioMixer: Display: Using Audio Device Samsung C24F390 (AMD High Definition Audio Device)
+[2020.09.22-15.01.32:265][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.22-15.01.32:265][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.22-15.01.32:265][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.22-15.01.32:266][321]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.22-15.01.32:282][321]LogInit: FAudioDevice initialized.
+[2020.09.22-15.01.32:292][321]LogLoad: Game class is 'GameModeBase'
+[2020.09.22-15.01.32:298][321]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 60) at 2020.09.22-17.01.32
+[2020.09.22-15.01.32:298][321]LogWorld: Bringing up level for play took: 0.005440
+[2020.09.22-15.01.32:298][321]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.09.22-15.01.32:301][321]PIE: Server logged in
+[2020.09.22-15.01.32:302][321]PIE: Play in editor total start time 0.094 seconds.
+[2020.09.22-15.03.36:734][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.22-15.03.36:735][781]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Maze1
+[2020.09.22-15.03.36:735][781]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-15.03.36:736][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-15.03.36:748][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.22-15.03.36:751][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-15.03.36:788][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.22-15.03.36:791][781]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B707E725C0), frame # 192781
+[2020.09.22-15.03.36:791][781]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B733276E00), frame # 192781
+[2020.09.22-15.03.36:793][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.09.22-15.03.36:825][782]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.09.22-15.10.30:951][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.09.22-15.10.30:960][605]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Maze1' took 0.027
+[2020.09.22-15.10.30:960][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/Sand] ([1] browsable assets)...
+[2020.09.22-15.10.30:960][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Sand]
+[2020.09.22-15.10.30:960][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Sand" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Materials/Sand_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.09.22-15.10.30:983][605]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Sand_Auto3EA7D61984122583E1E16D4A0E5FA81EC.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Materials/Sand_Auto3.uasset'
+[2020.09.22-15.10.30:984][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/lambert1] ([1] browsable assets)...
+[2020.09.22-15.10.30:984][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert1]
+[2020.09.22-15.10.30:984][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/lambert1_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.09.22-15.10.30:993][605]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/lambert1_Auto33F28767A4E6B5E5494468EA53B3A08BB.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/lambert1_Auto3.uasset'
+[2020.09.22-15.10.30:994][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/Mud] ([1] browsable assets)...
+[2020.09.22-15.10.30:994][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Mud]
+[2020.09.22-15.10.30:994][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Mud" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Materials/Mud_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.09.22-15.10.31:013][605]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Mud_Auto3C736D39B40BDC1AFE736B4B40707F8E6.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Materials/Mud_Auto3.uasset'
+[2020.09.22-15.10.31:014][605]LogFileHelpers: Auto-saving content packages took 0.055
+[2020.09.22-15.22.31:737][147]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Andreas/Downloads/MazeAssets/MazeAssets/Meshes/grass_mesh.fbx)
+[2020.09.22-15.22.31:748][147]LogFbx: Loading FBX Scene from C:/Users/Andreas/Downloads/MazeAssets/MazeAssets/Meshes/grass_mesh.fbx
+[2020.09.22-15.22.31:756][147]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.22-15.22.51:037][147]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.22-15.22.54:083][191]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Andreas/Downloads/MazeAssets/MazeAssets/Meshes/grass_mesh.fbx)
+[2020.09.22-15.22.54:094][191]LogFbx: Loading FBX Scene from C:/Users/Andreas/Downloads/MazeAssets/MazeAssets/Meshes/grass_mesh.fbx
+[2020.09.22-15.22.54:101][191]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.22-15.23.13:758][191]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.22-15.23.13:851][191]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.22-15.23.13:874][191]LogFbx: Display: Triangulating static mesh grass
+[2020.09.22-15.23.13:885][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.09.22-15.23.13:885][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.09.22-15.23.13:885][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.23.13:885][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.22-15.23.13:889][191]LogStaticMesh: Building static mesh grass_mesh...
+[2020.09.22-15.23.13:901][191]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/grass_mesh.grass_mesh
+[2020.09.22-15.23.23:700][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.09.22-15.23.25:914][478]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.22-15.23.26:484][478]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Meshes/lambert1.lambert1
+[2020.09.22-15.23.27:046][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.09.22-15.23.47:351][316]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Grass.Grass
+[2020.09.22-15.23.47:352][316]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.23.47:480][316]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.23.47:491][316]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.23.47:509][316]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.23.47:509][316]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.23.47:509][316]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.23.47:509][316]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.23.48:476][352]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.23.48:763][367]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-15.23.48:899][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.22-15.23.49:136][386]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.23.49:380][398]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.22-15.23.50:041][433]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.23.50:041][433]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.23.50:041][433]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.23.50:041][433]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.23.52:989][608]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.23.52:996][608]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.23.53:028][609]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.23.53:028][609]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.23.53:028][609]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.23.53:028][609]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.23.53:689][640]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.23.53:985][653]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.23.54:167][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.09.22-15.23.54:207][663]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.23.54:628][678]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.23.54:881][690]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.23.55:189][704]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.23.55:249][707]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-15.23.55:270][708]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.23.55:301][709]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.23.55:301][709]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.23.55:301][709]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.23.55:301][709]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.24.08:842][992]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.08:858][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.24.08:858][992]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.24.08:858][992]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.24.08:858][992]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.24.08:860][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.09:496][ 17]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.24.09:735][ 29]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.24.09:924][ 38]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.09.22-15.24.09:959][ 40]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.24.10:283][ 56]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.24.10:548][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.24.10:933][ 87]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.24.10:951][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-15.24.11:005][ 91]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.24.11:031][ 92]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.24.11:031][ 92]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.24.11:031][ 92]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.24.11:031][ 92]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.24.13:856][248]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.13:864][248]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.24.13:864][248]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.24.13:864][248]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.24.13:864][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.24.13:864][248]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.14:486][278]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.24.14:506][279]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.24.14:588][283]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.24.14:645][286]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.24.14:853][294]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.14:876][294]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.15:172][308]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.22-15.24.15:382][318]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.09.22-15.24.15:592][328]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.24.15:722][333]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.15:729][333]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.24.15:733][333]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.15:759][334]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.22-15.24.16:117][351]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.09.22-15.24.16:298][360]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.24.16:319][361]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.09.22-15.24.16:833][385]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.09.22-15.24.16:853][386]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-15.24.16:892][388]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.24.16:971][392]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.24.17:469][415]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.24.17:667][425]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.24.17:852][434]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.22-15.24.17:961][439]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.24.18:143][447]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.18:154][447]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.18:201][449]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.24.18:488][463]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.24.18:797][478]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.09.22-15.24.18:838][480]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.24.18:855][481]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.24.19:161][496]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.24.19:387][507]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.09.22-15.24.19:429][508]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.19:440][508]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.19:485][510]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.24.19:931][532]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.09.22-15.24.19:974][534]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.24.20:030][537]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.09.22-15.24.20:051][538]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.24.20:675][563]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.24.20:711][565]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.24.20:744][567]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.24.21:184][588]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.24.21:291][593]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.24.21:463][600]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.21:473][600]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.21:486][600]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.22-15.24.21:489][600]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.21:498][600]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.21:513][600]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.21:524][600]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.21:536][600]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.22-15.24.21:720][609]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.24.21:915][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.09.22-15.24.22:141][630]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.09.22-15.24.22:331][639]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.22-15.24.22:386][642]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.09.22-15.24.22:709][659]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.09.22-15.24.22:893][669]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.24.22:927][671]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.24.23:478][700]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.09.22-15.24.23:496][701]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-15.24.23:551][704]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.24.23:879][716]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.24.24:045][724]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.22-15.24.24:761][759]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.24.24:761][759]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.24.24:761][759]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.24.24:761][759]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.24.29:098][  1]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.29:105][  1]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.24.29:105][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.24.29:105][  1]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.24.29:105][  1]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.24.29:106][  1]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.29:683][ 29]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.24.29:726][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.24.29:803][ 35]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.24.29:817][ 36]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.24.30:099][ 48]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.30:114][ 48]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.30:350][ 59]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.22-15.24.30:588][ 70]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.09.22-15.24.30:763][ 79]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.24.30:863][ 84]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.22-15.24.30:963][ 89]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.24.31:050][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.31:062][ 92]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.31:078][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.31:088][ 92]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.31:104][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.31:115][ 92]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.31:126][ 92]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.22-15.24.31:285][100]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.24.31:457][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.09.22-15.24.31:518][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.24.31:883][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.24.32:118][143]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.24.32:258][150]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-15.24.32:291][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.24.32:475][162]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.24.32:845][181]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.24.33:157][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.24.33:242][200]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.24.33:648][215]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.24.33:821][223]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.09.22-15.24.34:452][254]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.24.34:452][254]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.24.34:453][254]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.24.34:453][254]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.24.36:791][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.36:798][391]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.36:804][391]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.24.36:804][391]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.24.36:804][391]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.24.36:804][391]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.24.37:375][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.24.37:415][422]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.24.37:509][427]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.24.37:518][427]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.09.22-15.24.37:534][427]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.37:543][427]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.38:220][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.24.38:406][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.09.22-15.24.38:696][464]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.24.38:911][470]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.09.22-15.24.39:046][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.24.39:263][481]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.24.39:519][490]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.24.39:550][491]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.09.22-15.24.40:175][512]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.24.40:284][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.24.40:285][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.22-15.24.40:782][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-15.24.40:983][538]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.24.41:565][564]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.24.41:565][564]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.24.41:565][564]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.24.41:565][564]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.24.43:249][659]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.43:257][659]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.43:264][659]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.24.43:264][659]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.24.43:264][659]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.24.43:264][659]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.24.43:913][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.24.43:938][690]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.24.44:087][697]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.24.44:087][697]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.24.44:702][726]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.24.44:822][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.24.45:022][741]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.24.45:114][745]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.24.45:340][755]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.24.45:356][755]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.45:365][755]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.45:753][770]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.22-15.24.45:957][780]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.09.22-15.24.46:039][784]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.24.46:039][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.22-15.24.46:185][790]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.46:196][790]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.46:210][790]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.24.46:220][790]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.46:230][790]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.22-15.24.46:254][791]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.22-15.24.46:706][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.09.22-15.24.46:769][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.24.46:833][817]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.09.22-15.24.46:918][822]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.24.47:420][846]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-15.24.47:440][847]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.24.47:466][848]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.24.47:991][874]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.24.47:991][874]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-15.24.48:209][885]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.22-15.24.48:421][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.24.48:542][901]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.22-15.24.48:775][911]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.48:967][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.24.49:102][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.24.49:154][927]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.24.49:273][934]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.24.49:749][958]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.24.49:948][969]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-15.24.50:061][975]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.24.50:254][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.24.50:504][998]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.22-15.24.51:120][ 31]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.24.51:120][ 31]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.24.51:120][ 31]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.24.51:120][ 31]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.24.51:502][ 53]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.51:510][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.24.51:537][ 54]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.24.51:537][ 54]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.24.51:537][ 54]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.24.51:537][ 54]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.24.52:083][ 81]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.24.52:330][ 92]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.24.52:551][103]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.09.22-15.24.52:569][104]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.24.52:875][119]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.24.53:134][131]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.24.53:462][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.24.53:479][148]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.24.53:523][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.24.53:546][151]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.24.53:547][151]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.24.53:547][151]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.24.53:547][151]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.24.54:908][224]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.54:921][224]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.24.54:921][224]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.24.54:921][224]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.24.54:921][224]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.24.54:921][224]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.24.55:523][251]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.24.55:757][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.24.55:978][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.24.55:999][275]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.24.56:337][292]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.24.56:608][305]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.24.56:913][320]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.22-15.24.56:935][321]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-15.24.56:975][323]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.22-15.24.57:004][324]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.24.57:004][324]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.24.57:004][324]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.24.57:004][324]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.24.59:564][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.24.59:571][465]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.24.59:578][465]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.24.59:578][465]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.24.59:578][465]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.24.59:578][465]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.00:183][495]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.25.00:222][497]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.25.00:279][500]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.25.00:317][502]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.25.00:849][527]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.25.01:049][537]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.25.01:219][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.25.01:305][549]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.25.01:653][566]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.02:192][593]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.25.02:192][593]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.25.02:192][593]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.25.02:192][593]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.25.03:253][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.03:260][655]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.03:266][655]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.25.03:266][655]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.25.03:266][655]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.25.03:266][655]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.03:853][684]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.25.03:891][686]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.25.03:991][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.25.04:011][692]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.25.04:596][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.25.04:736][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.25.04:896][733]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.25.05:044][738]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.25.05:339][752]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.05:952][780]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.22-15.25.05:952][780]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.22-15.25.05:952][780]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.25.05:952][780]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.25.13:660][219]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.13:665][219]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.25.13:665][219]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.25.13:665][219]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.25.13:665][219]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.13:667][219]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.14:386][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.25.14:479][256]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.25.14:537][259]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.25.14:552][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.25.15:193][288]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.25.15:426][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.25.15:574][307]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.25.15:659][311]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.25.15:986][327]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.16:557][355]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.25.16:557][355]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.25.16:557][355]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.25.16:558][355]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.25.24:438][819]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.24:445][819]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.24:452][819]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.25.24:452][819]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.25.24:452][819]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.25.24:452][819]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.25:022][847]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.25.25:084][850]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.25.25:165][854]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.25.25:188][855]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.09.22-15.25.25:730][879]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.25.25:911][888]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.25.26:058][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.25.26:165][900]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-15.25.26:467][914]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.27:051][941]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.25.27:051][941]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.25.27:051][941]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.25.27:051][941]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.25.29:908][100]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.29:919][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.29:924][100]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.09.22-15.25.29:924][100]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.25.29:924][100]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.09.22-15.25.29:924][100]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.25.29:935][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.29:943][100]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.29:957][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.29:965][100]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.30:535][124]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.25.30:762][135]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.25.30:957][144]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.25.30:963][144]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.25.31:065][149]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.25.31:501][169]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.25.31:541][171]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.09.22-15.25.31:643][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.25.32:083][196]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.09.22-15.25.32:160][200]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.25.32:295][207]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.25.32:627][223]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.25.32:706][227]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.09.22-15.25.33:400][261]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.25.33:400][261]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.25.33:400][261]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.25.33:400][261]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.25.34:441][322]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.34:448][322]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.25.34:449][322]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.25.34:449][322]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.25.34:449][322]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.25.34:450][322]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.34:466][322]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.34:473][322]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.34:488][322]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.34:496][322]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.35:005][347]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.25.35:260][359]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.25.35:454][368]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.25.35:475][369]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.25.35:541][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.25.35:969][392]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.25.36:049][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.09.22-15.25.36:145][401]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.25.36:652][422]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.25.36:672][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.25.36:859][432]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.25.37:233][449]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.25.37:272][451]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.38:021][485]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.25.38:022][485]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.25.38:022][485]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.25.38:022][485]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.25.45:406][902]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.45:413][902]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.45:419][902]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.25.45:419][902]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.25.45:419][902]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.25.45:419][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.46:035][931]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.25.46:053][932]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.25.46:168][938]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.25.46:187][939]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.09.22-15.25.46:735][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.25.46:900][971]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.25.47:061][978]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.25.47:186][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-15.25.47:480][999]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.48:067][ 28]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.25.48:067][ 28]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.25.48:067][ 28]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.25.48:067][ 28]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.25.49:427][107]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.49:434][107]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.49:440][107]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.25.49:440][107]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.25.49:440][107]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.25.49:440][107]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.50:037][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.25.50:076][137]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.25.50:169][142]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.25.50:187][143]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.09.22-15.25.50:748][168]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.25.50:935][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.25.51:082][184]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.25.51:174][188]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-15.25.51:460][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.25.52:062][229]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.25.52:062][229]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.25.52:062][229]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.25.52:062][229]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.25.53:023][282]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.53:033][282]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.25.53:033][282]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.25.53:034][282]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.25.53:034][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.25.53:034][282]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.53:050][282]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.53:057][282]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.53:073][282]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.53:081][282]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.53:611][306]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.25.53:880][319]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.25.54:050][327]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.25.54:072][328]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.09.22-15.25.54:129][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.25.54:618][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.25.54:664][355]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.25.54:744][359]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.25.55:165][378]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.25.55:229][381]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.25.55:391][389]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.25.55:725][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.25.55:786][407]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.22-15.25.55:977][415]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.55:995][415]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.56:014][415]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.56:025][415]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.56:043][415]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.25.56:055][415]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.25.56:138][419]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.25.56:303][427]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.25.56:325][428]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.25.56:510][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.25.56:665][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.25.56:986][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.25.57:028][460]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.25.57:070][462]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.25.57:591][485]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.25.57:730][492]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.25.57:810][496]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.25.58:055][508]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.25.58:252][517]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.09.22-15.25.58:912][548]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.25.58:912][548]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.25.58:912][548]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.25.58:912][548]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.26.01:907][722]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.01:914][722]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.01:921][722]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.26.01:921][722]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.26.01:921][722]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.26.01:921][722]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.26.02:488][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.26.02:528][752]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.26.02:623][757]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.26.02:639][758]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.26.03:179][782]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.26.03:396][792]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.26.03:536][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.26.03:653][805]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.26.03:961][820]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.26.04:392][840]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.04:399][840]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-15.26.04:401][840]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.04:502][845]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.09.22-15.26.04:519][846]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.26.04:534][847]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.22-15.26.04:985][866]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.26.05:112][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-15.26.05:226][878]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.26.05:250][879]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.26.05:835][905]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.26.06:005][913]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.26.06:092][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.26.06:150][918]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.06:159][918]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.06:241][922]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.26.06:539][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.09.22-15.26.06:795][947]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.26.06:881][951]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.09.22-15.26.07:073][960]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.26.07:228][967]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-15.26.07:423][976]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.26.07:469][978]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.26.08:019][  3]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.26.08:080][  6]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.26.08:140][  9]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.26.08:215][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.08:224][ 11]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.08:414][ 20]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.26.08:630][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.09.22-15.26.08:991][ 46]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.26.09:037][ 48]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.09.22-15.26.09:114][ 52]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.26.09:330][ 62]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-15.26.09:614][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.26.09:660][ 77]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.26.10:170][100]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.26.10:192][101]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.26.10:210][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.22-15.26.10:678][123]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.26.10:750][126]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.22-15.26.10:773][126]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.10:782][126]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.11:148][143]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.26.11:192][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.26.11:289][150]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.26.11:503][160]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.26.11:716][169]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.26.11:893][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.26.11:999][182]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.26.12:083][186]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.26.12:579][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.26.12:729][215]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-15.26.12:771][217]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.22-15.26.13:120][233]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.26.13:294][241]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.22-15.26.13:320][241]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.13:329][241]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.13:655][256]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.09.22-15.26.13:767][261]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.09.22-15.26.13:867][266]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.09.22-15.26.13:999][272]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.26.14:199][281]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.26.14:471][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-15.26.14:557][297]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.26.14:599][299]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.26.15:135][322]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.26.15:305][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.26.15:360][334]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.22-15.26.15:616][346]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.26.15:863][356]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.22-15.26.16:472][384]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.26.16:472][384]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.26.16:472][384]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.26.16:472][384]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.26.18:227][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.18:235][487]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.18:241][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.26.18:242][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.26.18:242][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.26.18:242][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.26.18:787][514]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.26.18:843][517]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.26.18:942][522]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.26.18:956][523]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.09.22-15.26.19:529][550]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.26.19:646][556]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.26.19:827][565]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.26.19:915][569]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-15.26.20:200][583]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.26.20:817][613]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.26.20:817][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.26.20:817][613]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.26.20:817][613]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.26.21:212][635]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.21:217][635]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.26.21:218][635]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.26.21:218][635]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.26.21:218][635]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.26.21:220][635]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.21:820][664]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.26.21:877][667]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.26.21:935][670]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.26.21:953][671]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.26.22:510][697]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.26.22:743][707]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.26.22:931][716]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.26.23:039][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.26.23:313][734]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.26.23:910][763]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.26.23:910][763]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.26.23:910][763]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.26.23:910][763]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.26.25:947][877]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.25:962][877]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.26.25:962][877]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.26.25:962][877]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.26.25:962][877]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.26.25:964][877]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.25:979][877]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.25:986][877]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.26:002][877]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.26:011][877]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.26:531][901]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.26.26:767][912]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.26.26:947][920]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.26.26:966][921]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.09.22-15.26.27:070][926]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.26.27:471][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.26.27:532][947]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.26.27:621][951]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.26.28:085][972]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.26.28:150][975]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.26.28:315][983]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.26.28:655][999]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.26.28:750][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.09.22-15.26.29:276][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.29:283][ 28]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.26.29:285][ 28]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.29:299][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.26.29:299][ 28]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.09.22-15.26.29:301][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.29:310][ 28]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.29:325][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.26.29:332][ 28]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.29:342][ 28]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.22-15.26.29:430][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.26.29:868][ 55]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.09.22-15.26.30:017][ 63]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.26.30:035][ 64]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.09.22-15.26.30:035][ 64]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.26.30:580][ 92]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.09.22-15.26.30:600][ 93]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.26.30:712][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.26.31:076][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.26.31:151][122]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-15.26.31:373][134]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.26.31:700][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-15.26.31:717][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.26.32:460][192]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.26.32:460][192]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.26.32:460][192]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.26.32:460][192]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.26.41:047][301]LogMaterialEditor: Applying material Grass
+[2020.09.22-15.26.41:794][301]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.41:845][301]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.26.41:845][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.26.41:845][301]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.26.41:845][301]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.26.41:899][301]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.26.41:958][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.09.22-15.26.41:974][301]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.22-15.26.42:541][301]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.09.22-15.26.42:541][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.09.22-15.26.43:102][301]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.09.22-15.26.43:102][301]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.09.22-15.26.43:102][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.09.22-15.26.43:102][301]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.09.22-15.26.43:434][301]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.22-15.26.43:434][301]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.09.22-15.26.43:434][301]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.09.22-15.26.43:434][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.26.43:434][301]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.26.43:439][301]TextureStreamingBuild: Display: Compiling optional shaders took 1.471 seconds.
+[2020.09.22-15.26.43:459][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.09.22-15.26.44:863][364]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.26.45:030][372]LogMaterialEditor: Saving and Compiling material Grass
+[2020.09.22-15.26.45:089][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.26.45:612][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.09.22-15.26.45:641][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Grass.uasset" SILENT=true
+[2020.09.22-15.26.45:658][372]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Grass9F4E5C5E4B7127FAE532B6BA59A7B1FA.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Grass.uasset'
+[2020.09.22-15.26.45:704][372]AssetCheck: New page: Asset Save: Grass
+[2020.09.22-15.26.45:704][372]LogContentValidation: Display: Validating Material /Game/Materials/Grass.Grass
+[2020.09.22-15.26.45:710][372]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.26.45:710][372]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.26.45:710][372]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.26.45:710][372]MaterialEditorStats: Texture samplers: 3/16
+[2020.09.22-15.26.46:944][441]LogSlate: Window 'Grass' being destroyed
+[2020.09.22-15.26.46:979][441]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-15.26.46:980][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-15.26.57:378][666]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/grass_mesh.grass_mesh
+[2020.09.22-15.26.57:655][666]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-15.26.57:655][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-15.27.32:983][510]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Grass.Grass
+[2020.09.22-15.27.32:985][510]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.09.22-15.27.33:063][510]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.09.22-15.27.33:072][510]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.09.22-15.27.33:086][510]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-15.27.33:086][510]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.27.33:086][510]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.27.33:086][510]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.27.33:092][510]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.27.33:915][534]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.27.34:221][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-15.27.34:364][550]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.09.22-15.27.34:513][555]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.27.34:756][563]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.27.34:956][570]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.27.35:350][583]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.27.35:371][584]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.27.35:431][586]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.22-15.27.35:439][586]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.09.22-15.27.35:439][586]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.09.22-15.27.35:439][586]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.22-15.27.35:439][586]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.27.53:093][136]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.09.22-15.27.53:108][136]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.09.22-15.27.53:119][136]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.09.22-15.27.53:159][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.09.22-15.27.53:159][137]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.22-15.27.53:159][137]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.09.22-15.27.53:159][137]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.27.53:387][146]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.22-15.27.53:536][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.27.53:952][165]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-15.27.53:999][167]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.09.22-15.27.54:137][172]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.27.54:490][184]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.27.54:519][185]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.27.54:761][194]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.27.54:939][200]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.27.55:150][207]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.22-15.27.56:740][241]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.27.56:740][241]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.27.56:741][241]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.09.22-15.27.56:741][241]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.27.58:414][246]LogMaterialEditor: Applying material Grass
+[2020.09.22-15.27.59:227][246]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.09.22-15.27.59:289][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.09.22-15.27.59:289][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.22-15.27.59:289][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.09.22-15.27.59:289][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.27.59:315][246]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.27.59:384][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.09.22-15.27.59:392][246]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.22-15.27.59:958][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.09.22-15.27.59:958][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.09.22-15.27.59:958][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.09.22-15.27.59:958][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.09.22-15.28.00:519][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.09.22-15.28.00:519][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.09.22-15.28.00:519][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.09.22-15.28.00:519][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.09.22-15.28.01:080][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.09.22-15.28.01:080][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.09.22-15.28.01:080][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.09.22-15.28.01:080][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.09.22-15.28.01:080][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.09.22-15.28.01:080][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.09.22-15.28.01:224][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.22-15.28.01:228][246]TextureStreamingBuild: Display: Compiling optional shaders took 1.841 seconds.
+[2020.09.22-15.28.01:252][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.09.22-15.28.01:407][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-15.28.02:553][287]LogMaterialEditor: Saving and Compiling material Grass
+[2020.09.22-15.28.03:206][287]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.28.03:206][287]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.22-15.28.03:767][287]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.28.03:767][287]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.09.22-15.28.03:873][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Grass.uasset" SILENT=true
+[2020.09.22-15.28.03:900][287]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Grass8EBEC0A64ED7AE233F400CAA3695257B.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Grass.uasset'
+[2020.09.22-15.28.03:938][287]AssetCheck: New page: Asset Save: Grass
+[2020.09.22-15.28.03:938][287]LogContentValidation: Display: Validating Material /Game/Materials/Grass.Grass
+[2020.09.22-15.28.03:943][287]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.28.03:944][287]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.28.03:944][287]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.09.22-15.28.03:944][287]MaterialEditorStats: Texture samplers: 3/16
+[2020.09.22-15.28.05:085][327]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-15.28.05:085][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-15.28.21:361][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/grass_mesh" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Meshes/grass_mesh.uasset" SILENT=true
+[2020.09.22-15.28.21:382][675]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/grass_meshA9E31C7640452264C76CA08B75D2DD94.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Meshes/grass_mesh.uasset'
+[2020.09.22-15.28.21:421][675]AssetCheck: New page: Asset Save: grass_mesh
+[2020.09.22-15.28.21:422][675]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/grass_mesh.grass_mesh
+[2020.09.22-15.28.23:149][747]LogSlate: Window 'grass_mesh' being destroyed
+[2020.09.22-15.28.23:193][747]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-15.28.23:193][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-15.32.52:386][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.09.22-15.32.52:390][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.22-15.32.52:458][  2]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_Auto4E58D322C4C58CF8997808BB402CABFC1.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto4.umap'
+[2020.09.22-15.32.52:462][  2]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Maze1' took 0.098
+[2020.09.22-15.32.52:462][  2]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.098
+[2020.09.22-15.39.24:167][577]LogMaterial: Display: Material /Game/Materials/Grass.Grass needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.09.22-15.39.24:169][577]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.39.24:211][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.09.22-15.39.24:211][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.09.22-15.39.24:211][578]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.09.22-15.39.24:211][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.09.22-15.39.33:644][108]Cmd: TRANSACTION UNDO
+[2020.09.22-15.39.33:644][108]LogEditorTransaction: Undo Foliage Editing
+[2020.09.22-15.39.35:495][196]Cmd: TRANSACTION UNDO
+[2020.09.22-15.39.35:495][196]LogEditorTransaction: Undo Foliage Editing
+[2020.09.22-15.40.55:026][368]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Grass.Grass
+[2020.09.22-15.40.55:028][368]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.40.55:200][368]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.40.55:216][368]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.40.55:235][368]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.22-15.40.55:236][368]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.09.22-15.40.55:236][368]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.09.22-15.40.55:236][368]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.40.55:241][368]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-15.40.55:678][378]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.09.22-15.40.55:768][383]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.09.22-15.40.55:827][386]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.09.22-15.40.55:984][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.22-15.40.56:612][418]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.09.22-15.40.56:837][426]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.40.56:874][427]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.22-15.40.57:324][440]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.40.57:455][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.09.22-15.40.57:645][450]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.40.57:759][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.40.58:016][462]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-15.40.58:180][467]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-15.40.58:332][472]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.22-15.40.58:485][477]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.40.58:747][486]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.22-15.40.59:078][495]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.40.59:079][495]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.40.59:079][495]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.09.22-15.40.59:079][495]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.41.17:271][817]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.41.17:359][818]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.22-15.41.17:359][818]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.09.22-15.41.17:359][818]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.09.22-15.41.17:359][818]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.41.17:372][818]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.09.22-15.41.17:534][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.09.22-15.41.17:669][830]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.09.22-15.41.17:806][836]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.09.22-15.41.17:847][838]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.22-15.41.18:462][864]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.09.22-15.41.18:525][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.09.22-15.41.18:673][874]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.09.22-15.41.19:007][888]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.41.19:135][893]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-15.41.19:347][902]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.41.19:697][916]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.41.19:884][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.41.19:989][929]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-15.41.20:193][938]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.41.20:312][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.41.20:874][968]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.41.20:874][968]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.41.20:874][968]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.09.22-15.41.20:874][968]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.41.35:320][749]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.41.35:365][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.22-15.41.35:365][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.09.22-15.41.35:365][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.09.22-15.41.35:365][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.41.35:629][762]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.41.35:732][767]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.41.35:834][771]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.41.35:940][774]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.41.36:525][793]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.41.36:637][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.41.36:756][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.41.37:099][817]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.41.37:288][825]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.41.37:443][832]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.41.37:745][840]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.41.37:926][845]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.22-15.41.38:705][884]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.41.38:705][884]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.41.38:705][884]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.09.22-15.41.38:705][884]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.41.44:854][213]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.41.44:898][214]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.22-15.41.44:898][214]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.09.22-15.41.44:898][214]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.09.22-15.41.44:898][214]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.41.45:176][227]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.41.45:245][230]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.41.45:386][235]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.41.45:453][238]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.41.46:032][263]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.41.46:149][268]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.41.46:222][271]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.41.46:633][288]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.41.46:794][295]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.41.46:964][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.41.47:240][315]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.41.47:384][321]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.22-15.41.48:210][360]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.41.48:210][360]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.41.48:210][360]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.09.22-15.41.48:210][360]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.41.54:128][588]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.41.54:153][589]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.22-15.41.54:153][589]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.09.22-15.41.54:153][589]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.09.22-15.41.54:153][589]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.41.54:386][599]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.41.54:497][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.41.54:641][610]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.41.54:681][612]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.41.55:193][633]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.41.55:281][637]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.41.55:410][643]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.41.55:794][659]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.41.55:859][662]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.41.56:076][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.41.56:335][684]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.41.56:481][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.22-15.41.57:224][728]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.41.57:224][728]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.41.57:224][728]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.09.22-15.41.57:224][728]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.42.17:594][885]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.42.17:617][886]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.22-15.42.17:617][886]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.09.22-15.42.17:617][886]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.09.22-15.42.17:617][886]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.42.18:054][908]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.22-15.42.18:140][912]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.42.18:240][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.42.18:321][921]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.42.18:815][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.42.18:896][948]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.42.19:026][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.42.19:386][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.22-15.42.19:478][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.42.19:688][983]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.42.20:026][998]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.42.20:181][  5]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.22-15.42.21:585][ 48]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.42.21:586][ 48]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.42.21:586][ 48]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.09.22-15.42.21:586][ 48]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.42.26:398][ 81]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.42.26:400][ 81]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.09.22-15.42.26:400][ 81]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2020.09.22-15.42.26:400][ 81]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'WindWeight'
+[2020.09.22-15.42.26:400][ 81]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'WindIntensity'
+[2020.09.22-15.42.26:403][ 81]MaterialEditorStats: Error: [SM5] Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2020.09.22-15.42.26:404][ 81]MaterialEditorStats: Error: [SM5] Function SimpleGrassWind: Missing function input 'WindWeight'
+[2020.09.22-15.42.26:404][ 81]MaterialEditorStats: Error: [SM5] Function SimpleGrassWind: Missing function input 'WindIntensity'
+[2020.09.22-15.42.40:991][436]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.42.40:993][436]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.09.22-15.42.40:993][436]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2020.09.22-15.42.40:993][436]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'WindWeight'
+[2020.09.22-15.42.40:993][436]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'WindIntensity'
+[2020.09.22-15.42.42:193][506]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.42.42:194][506]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.09.22-15.42.42:194][506]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2020.09.22-15.42.42:194][506]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'WindWeight'
+[2020.09.22-15.42.42:194][506]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'WindIntensity'
+[2020.09.22-15.42.45:497][696]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.42.45:498][696]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.09.22-15.42.45:498][696]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2020.09.22-15.42.45:499][696]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'WindWeight'
+[2020.09.22-15.42.45:501][696]MaterialEditorStats: Error: [SM5] Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2020.09.22-15.42.45:501][696]MaterialEditorStats: Error: [SM5] Function SimpleGrassWind: Missing function input 'WindWeight'
+[2020.09.22-15.42.47:751][824]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.42.47:752][824]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.09.22-15.42.47:752][824]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2020.09.22-15.42.47:755][824]MaterialEditorStats: Error: [SM5] Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2020.09.22-15.43.10:449][628]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.43.10:451][628]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.09.22-15.43.10:451][628]LogMaterial: Display: 	Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2020.09.22-15.43.10:452][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.43.10:485][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.43.10:485][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.43.10:485][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.43.10:485][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.43.17:906][ 49]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.43.17:937][ 49]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.09.22-15.43.17:937][ 49]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.09.22-15.43.17:937][ 49]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.09.22-15.43.17:937][ 49]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.09.22-15.43.17:937][ 49]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-15.43.18:180][ 60]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.09.22-15.43.18:327][ 67]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.09.22-15.43.18:391][ 70]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.09.22-15.43.18:661][ 83]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.09.22-15.43.18:706][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.09.22-15.43.18:812][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.09.22-15.43.18:958][ 97]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.09.22-15.43.19:041][101]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.09.22-15.43.19:201][107]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.09.22-15.43.19:201][107]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.09.22-15.43.19:432][116]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.09.22-15.43.19:602][123]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.09.22-15.43.19:668][126]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.09.22-15.43.20:211][148]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.43.20:256][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.09.22-15.43.20:538][161]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.09.22-15.43.20:560][162]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.09.22-15.43.20:702][168]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.09.22-15.43.20:745][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.09.22-15.43.20:944][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.43.21:274][193]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.43.21:358][197]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.43.21:484][203]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.43.21:585][208]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.22-15.43.21:797][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.43.22:066][230]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.09.22-15.43.22:307][240]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.43.22:307][240]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.43.22:307][240]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.09.22-15.43.22:307][240]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.44.27:376][ 95]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.44.27:394][ 95]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.44.27:422][ 96]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.09.22-15.44.27:422][ 96]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.09.22-15.44.27:422][ 96]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.09.22-15.44.27:422][ 96]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.09.22-15.44.27:851][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.09.22-15.44.28:054][126]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.09.22-15.44.28:129][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.09.22-15.44.28:333][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.09.22-15.44.28:441][143]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.09.22-15.44.28:558][149]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.09.22-15.44.28:665][154]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.09.22-15.44.28:791][160]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.09.22-15.44.28:838][162]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.09.22-15.44.28:904][165]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.09.22-15.44.29:186][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.09.22-15.44.29:445][187]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-15.44.29:489][189]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.09.22-15.44.29:998][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-15.44.30:068][213]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-15.44.30:291][223]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-15.44.30:362][226]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-15.44.30:505][233]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.09.22-15.44.30:524][234]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-15.44.30:761][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-15.44.31:101][260]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.44.31:140][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.22-15.44.31:519][280]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.44.31:533][280]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.09.22-15.44.31:533][280]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.09.22-15.44.31:533][280]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.09.22-15.44.31:536][280]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.44.31:810][293]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.09.22-15.44.31:977][301]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.09.22-15.44.32:002][302]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.09.22-15.44.32:322][317]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.09.22-15.44.32:342][318]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.09.22-15.44.32:816][336]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.09.22-15.44.32:885][338]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.09.22-15.44.32:975][340]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.09.22-15.44.33:304][347]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.09.22-15.44.33:556][352]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.09.22-15.44.33:623][354]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.09.22-15.44.33:659][355]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.09.22-15.44.33:815][360]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.09.22-15.44.33:908][362]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-15.44.34:296][370]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.09.22-15.44.34:610][379]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-15.44.34:717][382]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-15.44.35:182][396]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.44.35:337][401]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.09.22-15.44.35:493][406]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.44.35:553][408]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.44.35:841][417]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.09.22-15.44.35:874][418]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.44.36:057][424]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.22-15.44.36:572][439]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-15.44.36:632][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.44.37:773][475]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.44.37:774][475]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.44.37:774][475]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2020.09.22-15.44.37:774][475]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.45.09:964][540]LogSlate: Window 'Warning: No Preview Mesh Found' being destroyed
+[2020.09.22-15.45.13:385][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.09.22-15.45.13:397][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.22-15.45.13:490][624]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_Auto51467B129402DDBAA3B1DCC840CDBEDBF.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto5.umap'
+[2020.09.22-15.45.13:495][624]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Maze1' took 0.140
+[2020.09.22-15.45.13:495][624]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.140
+[2020.09.22-15.45.53:405][134]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.45.53:430][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.09.22-15.45.53:430][135]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.09.22-15.45.53:430][135]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.09.22-15.45.53:430][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.09.22-15.45.53:905][160]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.09.22-15.45.54:058][167]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.09.22-15.45.54:145][171]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.09.22-15.45.54:459][185]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.09.22-15.45.54:479][186]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.09.22-15.45.54:596][192]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.09.22-15.45.54:727][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.09.22-15.45.54:750][199]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.09.22-15.45.54:950][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.09.22-15.45.54:970][210]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.09.22-15.45.55:220][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.09.22-15.45.55:404][231]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.09.22-15.45.55:456][233]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.09.22-15.45.56:020][259]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-15.45.56:121][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-15.45.56:325][274]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.45.56:346][275]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-15.45.56:551][285]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.45.56:603][286]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.22-15.45.56:873][299]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.22-15.45.57:282][317]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.45.57:303][318]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.22-15.45.58:117][360]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.45.58:117][360]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.45.58:117][360]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2020.09.22-15.45.58:117][360]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.22-15.47.13:150][811]LogMaterialEditor: Applying material Grass
+[2020.09.22-15.47.14:308][811]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.09.22-15.47.14:397][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.09.22-15.47.14:397][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.09.22-15.47.14:397][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.09.22-15.47.14:397][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.09.22-15.47.14:449][811]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.47.14:549][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.09.22-15.47.14:558][811]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.22-15.47.15:125][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 91
+[2020.09.22-15.47.15:125][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 90
+[2020.09.22-15.47.15:125][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 89
+[2020.09.22-15.47.15:686][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2020.09.22-15.47.15:686][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 87
+[2020.09.22-15.47.15:686][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 86
+[2020.09.22-15.47.15:686][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 85
+[2020.09.22-15.47.15:686][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2020.09.22-15.47.15:686][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 83
+[2020.09.22-15.47.15:686][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.09.22-15.47.15:686][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 81
+[2020.09.22-15.47.16:247][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2020.09.22-15.47.16:247][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 79
+[2020.09.22-15.47.16:247][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 78
+[2020.09.22-15.47.16:247][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 77
+[2020.09.22-15.47.16:808][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2020.09.22-15.47.16:808][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2020.09.22-15.47.16:808][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2020.09.22-15.47.16:808][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 73
+[2020.09.22-15.47.16:808][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2020.09.22-15.47.17:369][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2020.09.22-15.47.17:369][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2020.09.22-15.47.17:369][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2020.09.22-15.47.17:369][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 68
+[2020.09.22-15.47.17:369][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 67
+[2020.09.22-15.47.17:369][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2020.09.22-15.47.17:436][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2020.09.22-15.47.17:442][811]TextureStreamingBuild: Display: Compiling optional shaders took 2.889 seconds.
+[2020.09.22-15.47.17:462][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.09.22-15.47.17:612][815]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2020.09.22-15.47.18:910][869]LogMaterialEditor: Saving and Compiling material Grass
+[2020.09.22-15.47.20:650][869]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.09.22-15.47.21:211][869]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.09.22-15.47.21:211][869]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.09.22-15.47.21:772][869]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.22-15.47.22:895][869]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-15.47.22:895][869]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.09.22-15.47.22:895][869]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.22-15.47.22:895][869]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.47.23:732][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Grass.uasset" SILENT=true
+[2020.09.22-15.47.23:763][869]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Grass08E9742A413FE0A97B370AA55085409B.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Grass.uasset'
+[2020.09.22-15.47.23:808][869]AssetCheck: New page: Asset Save: Grass
+[2020.09.22-15.47.23:808][869]LogContentValidation: Display: Validating Material /Game/Materials/Grass.Grass
+[2020.09.22-15.47.23:814][869]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.09.22-15.47.23:814][869]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.09.22-15.47.23:814][869]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2020.09.22-15.47.23:814][869]MaterialEditorStats: Texture samplers: 3/16
+[2020.09.22-15.47.25:535][969]LogSlate: Window 'Grass' being destroyed
+[2020.09.22-15.47.25:609][969]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-15.47.25:609][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-15.47.30:408][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.22-15.47.30:430][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.09.22-15.47.30:494][254]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze17E5627364FB2584F10E73CB9C12B1D87.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.22-15.47.30:529][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1_BuiltData" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset" SILENT=true
+[2020.09.22-15.47.30:773][254]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_BuiltDataC9EF0696418B56039EB75480D23CB6F1.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset'
+[2020.09.22-15.47.30:820][254]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.22-15.47.30:821][254]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.22-15.47.30:821][254]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
+[2020.09.22-15.47.36:161][567]MapCheck: New page: Map Check
+[2020.09.22-15.47.36:178][567]Cmd: MAP REBUILD ALLVISIBLE
+[2020.09.22-15.47.36:179][567]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.09.22-15.47.36:201][567]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=false
+[2020.09.22-15.47.36:217][567]LightingResults: New page: Lighting Build - Sep 22, 2020, 7:47:36 PM
+[2020.09.22-15.47.36:229][567]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.09.22-15.47.36:231][567]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.22-15.47.36:236][567]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.22-15.47.36:236][567]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.22-15.47.36:237][567]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.22-15.47.36:237][567]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10572
+[2020.09.22-15.47.40:810][567]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.22-15.47.40:810][567]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.22-15.47.40:810][567]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.22-15.47.40:810][567]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.22-15.47.40:810][567]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.22-15.47.40:810][567]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.22-15.47.40:951][567]LogEditorBuildUtils: Build time 0:04
+[2020.09.22-15.47.40:959][567]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sand, compiling. 
+[2020.09.22-15.47.40:962][567]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sand, compiling. 
+[2020.09.22-15.47.40:966][567]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-15.47.40:966][567]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.22-15.47.40:966][567]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Grass, compiling. 
+[2020.09.22-15.47.40:970][567]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Grass, compiling. 
+[2020.09.22-15.47.41:004][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-15.47.41:004][568]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-15.47.41:008][568]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mud, compiling. 
+[2020.09.22-15.47.41:012][568]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mud, compiling. 
+[2020.09.22-15.47.42:267][568]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.09.22-15.47.42:267][568]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-15.47.42:267][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.22-15.47.42:267][568]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.47.42:534][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.09.22-15.47.51:859][103]Job is a success!
+[2020.09.22-15.47.52:064][104]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.09.22-15.47.52:064][104]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.22-15.47.52:064][104]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.09.22-15.47.52:064][104]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.22-15.47.52:064][104]LogVolumetricLightmapImport:          0: 1.8% covering 100.0% of volume
+[2020.09.22-15.47.52:064][104]LogVolumetricLightmapImport:          1: 7.3% covering 6.2% of volume
+[2020.09.22-15.47.52:064][104]LogVolumetricLightmapImport:          2: 90.9% covering 1.2% of volume
+[2020.09.22-15.47.52:064][104]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.22-15.47.52:064][104]LogVolumetricLightmapImport:          Maze1 			 55 bricks 	 100.0% (Persistent Level)
+[2020.09.22-15.47.54:410][104]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.09.22-15.47.54:410][104]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.09.22-15.47.54:410][104]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.09.22-15.47.54:410][104]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.09.22-15.47.54:410][104]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.09.22-15.47.54:410][104]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.09.22-15.47.54:410][104]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.09.22-15.47.54:410][104]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.09.22-15.47.54:410][104]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.09.22-15.47.54:610][104]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2020.09.22-15.47.54:610][104]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X512)
+[2020.09.22-15.47.54:610][104]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X512)
+[2020.09.22-15.47.54:710][104]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.09.22-15.47.54:710][104]Lightmass on DESKTOP-8R8KDPT: 11.5 sec total, 186 ms importing, 44 ms setup, 1.33 sec photons, 9.98 sec processing, 0 ms extra exporting [328/328 mappings]. Threads: 1:09 min total, 40.8 sec processing.
+[2020.09.22-15.47.54:721][104]LogStaticLightingSystem: Maze1_BuiltData storing lightmap data for 169 meshes in 4 LightmapResourceClusters (42.2 Meshes per cluster).
+[2020.09.22-15.47.54:733][104]LogMaterial: Display: Material /Game/Materials/Grass.Grass needed to have new flag set bUsedWithStaticLighting !
+[2020.09.22-15.47.54:738][104]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-15.47.54:825][104]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 93
+[2020.09.22-15.47.54:825][104]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 83
+[2020.09.22-15.47.54:825][104]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2020.09.22-15.47.54:825][104]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 63
+[2020.09.22-15.47.54:829][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.09.22-15.47.54:870][104]LogStaticLightingSystem: Illumination: 18.6 sec (1.94 sec encoding lightmaps, 247 ms encoding shadowmaps)
+[2020.09.22-15.47.54:870][104]LogStaticLightingSystem: Lightmap texture memory:  13.3 MB (10.7 MB streaming, 2.7 MB non-streaming), 6 textures
+[2020.09.22-15.47.54:870][104]LogStaticLightingSystem: Shadowmap texture memory: 2.1 MB (2.0 MB streaming, 0.1 MB non-streaming), 4 textures
+[2020.09.22-15.47.55:822][104]DumpUnbuiltLightIteractions
+[2020.09.22-15.47.55:822][104]Lights with unbuilt interactions: 0
+[2020.09.22-15.47.55:822][104]
+[2020.09.22-15.47.55:822][104]Primitives with unbuilt interactions: 0
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.09.22-15.48.03:028][104]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.22-15.48.03:086][105]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.22-15.48.03:086][105]MapCheck: New page: Maze1 - Sep 22, 2020, 7:48:03 PM
+[2020.09.22-15.48.03:087][105]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.32ms to complete.
+[2020.09.22-15.57.41:793][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.09.22-15.57.41:803][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.22-15.57.41:874][798]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_Auto62CCFE17F43BD68B478D6AE807EE3BD58.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto6.umap'
+[2020.09.22-15.57.41:877][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Maze1' took 0.101
+[2020.09.22-15.57.41:877][798]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.101
+[2020.09.22-15.57.41:878][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/Grass] ([1] browsable assets)...
+[2020.09.22-15.57.41:878][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Grass]
+[2020.09.22-15.57.41:878][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Materials/Grass_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.09.22-15.57.41:905][798]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Grass_Auto620D4F24A43E204DC856DF1B6C4E3EC65.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Materials/Grass_Auto6.uasset'
+[2020.09.22-15.57.41:906][798]LogFileHelpers: Auto-saving content packages took 0.028
+[2020.09.22-16.02.18:620][328]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2020.09.22-16.02.21:588][477]LogSlate: Window 'Message Log' being destroyed
+[2020.09.22-16.02.21:594][477]LogSlate: Window 'Message Log' being destroyed
+[2020.09.22-16.02.28:705][904]Cmd: TRANSACTION UNDO
+[2020.09.22-16.02.28:705][904]LogEditorTransaction: Undo Foliage Editing
+[2020.09.22-16.04.25:664][919]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.09.22-16.04.30:677][216]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.09.22-16.04.42:615][924]MapCheck: New page: Map Check
+[2020.09.22-16.04.42:633][924]Cmd: MAP REBUILD ALLVISIBLE
+[2020.09.22-16.04.42:633][924]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.09.22-16.04.42:654][924]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=false
+[2020.09.22-16.04.42:671][924]LightingResults: New page: Lighting Build - Sep 22, 2020, 8:04:42 PM
+[2020.09.22-16.04.42:706][924]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.22-16.04.42:714][924]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.22-16.04.42:714][924]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.22-16.04.42:715][924]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.22-16.04.42:715][924]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10572
+[2020.09.22-16.04.47:289][924]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.22-16.04.47:289][924]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.22-16.04.47:289][924]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.22-16.04.47:289][924]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.22-16.04.47:289][924]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.22-16.04.47:289][924]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.22-16.04.47:432][924]LogEditorBuildUtils: Build time 0:04
+[2020.09.22-16.04.47:498][925]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Grass, compiling. 
+[2020.09.22-16.04.47:503][925]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Grass, compiling. 
+[2020.09.22-16.04.49:258][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-16.04.49:258][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-16.04.49:452][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.09.22-16.04.58:808][434]Job is a success!
+[2020.09.22-16.04.59:023][435]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.09.22-16.04.59:023][435]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.22-16.04.59:023][435]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.09.22-16.04.59:023][435]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.22-16.04.59:023][435]LogVolumetricLightmapImport:          0: 1.8% covering 100.0% of volume
+[2020.09.22-16.04.59:023][435]LogVolumetricLightmapImport:          1: 7.3% covering 6.2% of volume
+[2020.09.22-16.04.59:023][435]LogVolumetricLightmapImport:          2: 90.9% covering 1.2% of volume
+[2020.09.22-16.04.59:023][435]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.22-16.04.59:023][435]LogVolumetricLightmapImport:          Maze1 			 55 bricks 	 100.0% (Persistent Level)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 512X256)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2020.09.22-16.05.00:705][435]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2020.09.22-16.05.00:906][435]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2020.09.22-16.05.00:906][435]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X64)
+[2020.09.22-16.05.00:906][435]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 128X512)
+[2020.09.22-16.05.00:982][435]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2020.09.22-16.05.00:982][435]Lightmass on DESKTOP-8R8KDPT: 10.9 sec total, 242 ms importing, 40 ms setup, 1.25 sec photons, 9.22 sec processing, 0 ms extra exporting [273/273 mappings]. Threads: 1:04 min total, 39.3 sec processing.
+[2020.09.22-16.05.00:983][435]LogStaticLightingSystem: Maze1_BuiltData storing lightmap data for 169 meshes in 5 LightmapResourceClusters (33.8 Meshes per cluster).
+[2020.09.22-16.05.01:012][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.09.22-16.05.01:040][435]LogStaticLightingSystem: Illumination: 18.3 sec (1.41 sec encoding lightmaps, 232 ms encoding shadowmaps)
+[2020.09.22-16.05.01:040][435]LogStaticLightingSystem: Lightmap texture memory:  8.7 MB (6.0 MB streaming, 2.7 MB non-streaming), 10 textures
+[2020.09.22-16.05.01:040][435]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (1.4 MB streaming, 0.1 MB non-streaming), 4 textures
+[2020.09.22-16.05.01:302][435]DumpUnbuiltLightIteractions
+[2020.09.22-16.05.01:302][435]Lights with unbuilt interactions: 0
+[2020.09.22-16.05.01:302][435]
+[2020.09.22-16.05.01:302][435]Primitives with unbuilt interactions: 0
+[2020.09.22-16.05.01:394][436]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.22-16.05.01:394][436]MapCheck: New page: Maze1 - Sep 22, 2020, 8:05:01 PM
+[2020.09.22-16.05.01:396][436]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.808ms to complete.
+[2020.09.22-16.05.09:996][948]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.22-16.05.10:018][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.22-16.05.10:019][948]PIE: New page: PIE session: Maze1 (Sep 22, 2020, 8:05:10 PM)
+[2020.09.22-16.05.10:019][948]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Maze1
+[2020.09.22-16.05.10:032][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013076s)
+[2020.09.22-16.05.10:033][948]LogAIModule: Creating AISystem for world Maze1
+[2020.09.22-16.05.10:033][948]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B7BF259000), frame # 351948
+[2020.09.22-16.05.10:033][948]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B733DF02C0), frame # 351948
+[2020.09.22-16.05.10:033][948]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2020.09.22-16.05.10:033][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Maze1.Maze1 to /Game/Maps/UEDPIE_0_Maze1.Maze1 (0.014562s)
+[2020.09.22-16.05.10:050][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.09.22-16.05.10:053][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.22-16.05.10:053][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.22-16.05.10:053][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.22-16.05.10:053][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.22-16.05.10:053][948]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.22-16.05.10:053][948]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.22-16.05.10:053][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.22-16.05.10:053][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.22-16.05.10:054][948]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.22-16.05.10:054][948]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.22-16.05.10:084][948]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.22-16.05.10:084][948]LogAudioMixer: Display: 1: FrontRight
+[2020.09.22-16.05.10:101][948]LogAudioMixer: Display: Using Audio Device Samsung C24F390 (AMD High Definition Audio Device)
+[2020.09.22-16.05.10:101][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.22-16.05.10:101][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.22-16.05.10:101][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.22-16.05.10:102][948]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.22-16.05.10:122][948]LogInit: FAudioDevice initialized.
+[2020.09.22-16.05.10:134][948]LogLoad: Game class is 'GameModeBase'
+[2020.09.22-16.05.10:140][948]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 60) at 2020.09.22-18.05.10
+[2020.09.22-16.05.10:140][948]LogWorld: Bringing up level for play took: 0.005659
+[2020.09.22-16.05.10:140][948]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.09.22-16.05.10:143][948]PIE: Server logged in
+[2020.09.22-16.05.10:144][948]PIE: Play in editor total start time 0.13 seconds.
+[2020.09.22-16.05.14:967][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.22-16.05.14:967][233]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Maze1
+[2020.09.22-16.05.14:968][233]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-16.05.14:969][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-16.05.14:980][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.22-16.05.14:984][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-16.05.15:022][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.22-16.05.15:024][233]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B733DF02C0), frame # 352233
+[2020.09.22-16.05.15:024][233]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B7BF259000), frame # 352233
+[2020.09.22-16.05.15:026][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.09.22-16.05.15:059][234]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.09.22-16.05.16:602][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.22-16.05.16:626][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.09.22-16.05.16:703][321]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze142F7FB0F43F01C0E3517DE9801E8AD2F.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.22-16.05.16:747][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1_BuiltData" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset" SILENT=true
+[2020.09.22-16.05.17:082][321]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_BuiltData6A182A6646D46376FF97ABA30437C4F4.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset'
+[2020.09.22-16.05.17:101][321]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.22-16.05.17:101][321]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.22-16.05.17:101][321]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
+[2020.09.22-16.05.25:273][710]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Grass.Grass
+[2020.09.22-16.05.25:275][710]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-16.05.25:436][710]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2020.09.22-16.05.25:456][710]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.09.22-16.05.25:456][710]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.09.22-16.05.25:456][710]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.09.22-16.05.25:456][710]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.09.22-16.05.25:461][710]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-16.05.25:467][710]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-16.05.25:982][722]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.09.22-16.05.26:159][729]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.09.22-16.05.26:237][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.09.22-16.05.26:840][755]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.09.22-16.05.26:886][757]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.09.22-16.05.26:940][760]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.09.22-16.05.27:156][770]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.09.22-16.05.27:244][774]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.09.22-16.05.27:264][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.09.22-16.05.27:497][785]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.09.22-16.05.27:497][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.09.22-16.05.27:718][794]LogMaterialEditor: Saving and Compiling material Grass
+[2020.09.22-16.05.27:804][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Grass.uasset" SILENT=true
+[2020.09.22-16.05.27:866][794]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Grass2CA7A2F445FD1424A2C51F9E522CAF72.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Grass.uasset'
+[2020.09.22-16.05.27:920][794]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.09.22-16.05.27:943][794]AssetCheck: New page: Asset Save: Grass
+[2020.09.22-16.05.27:944][794]LogContentValidation: Display: Validating Material /Game/Materials/Grass.Grass
+[2020.09.22-16.05.28:086][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.09.22-16.05.28:177][804]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.09.22-16.05.28:724][825]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.09.22-16.05.28:732][825]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.09.22-16.05.28:916][832]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.09.22-16.05.29:073][839]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.09.22-16.05.29:322][850]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.09.22-16.05.29:471][857]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-16.05.29:871][875]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.09.22-16.05.29:891][876]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.09.22-16.05.30:224][889]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-16.05.30:273][891]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-16.05.30:655][908]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.09.22-16.05.30:662][908]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-16.05.30:821][915]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.22-16.05.31:141][928]LogSlate: Window 'Grass' being destroyed
+[2020.09.22-16.05.31:236][928]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-16.05.31:236][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-16.05.32:896][992]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Mud.Mud
+[2020.09.22-16.05.32:897][992]LogMaterial: Display: Missing cached shader map for material Mud, compiling. 
+[2020.09.22-16.05.33:042][992]LogMaterial: Display: Missing cached shader map for material Mud, compiling. 
+[2020.09.22-16.05.33:059][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-16.05.33:059][992]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.09.22-16.05.33:059][992]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-16.05.33:059][992]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-16.05.33:063][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-16.05.33:778][ 12]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-16.05.34:123][ 26]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.22-16.05.34:318][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-16.05.34:411][ 38]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.09.22-16.05.35:101][ 63]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.22-16.05.35:235][ 69]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-16.05.35:243][ 69]LogMaterialEditor: Saving and Compiling material Mud
+[2020.09.22-16.05.35:315][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Mud" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Mud.uasset" SILENT=true
+[2020.09.22-16.05.35:357][ 69]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-16.05.35:357][ 69]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/MudB00A4DE345482A92ED15B4B6603D5D28.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Mud.uasset'
+[2020.09.22-16.05.35:416][ 69]AssetCheck: New page: Asset Save: Mud
+[2020.09.22-16.05.35:416][ 69]LogContentValidation: Display: Validating Material /Game/Materials/Mud.Mud
+[2020.09.22-16.05.35:585][ 74]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.09.22-16.05.36:031][ 90]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.09.22-16.05.36:347][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.22-16.05.36:424][105]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.22-16.05.36:476][107]LogSlate: Window 'Mud' being destroyed
+[2020.09.22-16.05.36:575][107]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-16.05.36:575][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-16.05.37:432][131]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Sand.Sand
+[2020.09.22-16.05.37:433][131]LogMaterial: Display: Missing cached shader map for material Sand, compiling. 
+[2020.09.22-16.05.37:581][131]LogMaterial: Display: Missing cached shader map for material Sand, compiling. 
+[2020.09.22-16.05.37:591][131]LogMaterial: Display: Missing cached shader map for material Sand, compiling. 
+[2020.09.22-16.05.37:608][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.09.22-16.05.37:608][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.09.22-16.05.37:608][131]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.09.22-16.05.37:608][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.22-16.05.37:612][131]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.22-16.05.38:355][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.22-16.05.38:626][161]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.22-16.05.38:829][169]LogMaterialEditor: Saving and Compiling material Sand
+[2020.09.22-16.05.38:838][169]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.22-16.05.38:856][169]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.09.22-16.05.38:917][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Sand" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Sand.uasset" SILENT=true
+[2020.09.22-16.05.38:958][169]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/SandA343D86544D3C5A3DBD564987BAE5E2E.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Materials/Sand.uasset'
+[2020.09.22-16.05.39:026][169]AssetCheck: New page: Asset Save: Sand
+[2020.09.22-16.05.39:026][169]LogContentValidation: Display: Validating Material /Game/Materials/Sand.Sand
+[2020.09.22-16.05.39:499][186]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-16.05.39:531][187]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.09.22-16.05.39:683][194]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-16.05.39:909][203]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.22-16.05.40:043][208]LogSlate: Window 'Sand' being destroyed
+[2020.09.22-16.05.40:143][208]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-16.05.40:143][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-16.05.41:414][248]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Grass.Grass
+[2020.09.22-16.05.41:416][248]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.09.22-16.05.41:569][248]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.09.22-16.05.41:588][248]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.09.22-16.05.41:611][248]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.09.22-16.05.41:611][248]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.09.22-16.05.41:611][248]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.09.22-16.05.41:611][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.09.22-16.05.41:613][248]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.22-16.05.41:617][248]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.22-16.05.41:881][250]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.09.22-16.05.42:035][257]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.09.22-16.05.42:171][263]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.09.22-16.05.42:742][285]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.09.22-16.05.42:811][288]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.09.22-16.05.42:877][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.09.22-16.05.43:029][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.09.22-16.05.43:070][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.09.22-16.05.43:140][302]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.09.22-16.05.43:317][310]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.09.22-16.05.43:341][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.09.22-16.05.43:348][311]LogSlate: Window 'Grass' being destroyed
+[2020.09.22-16.05.43:445][311]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.09.22-16.05.43:445][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.22-16.05.43:905][337]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.09.22-16.05.44:000][341]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.09.22-16.05.44:147][350]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.09.22-16.05.44:452][366]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.09.22-16.05.44:489][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.22-16.05.44:517][366]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.22-16.05.44:538][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.09.22-16.05.44:630][366]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze135F1BF7943A0640E88AE59B0FB0D63CE.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.22-16.05.44:677][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1_BuiltData" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset" SILENT=true
+[2020.09.22-16.05.44:927][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.22-16.05.44:927][366]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.09.22-16.05.44:927][366]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.22-16.05.45:135][366]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_BuiltData86AEB1654E3C65BCCD5839B1DBD4472B.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset'
+[2020.09.22-16.05.45:154][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.22-16.05.45:191][366]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.22-16.05.45:191][366]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.22-16.05.45:191][366]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
+[2020.09.22-16.05.45:272][371]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.22-16.05.45:354][376]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.22-16.05.45:557][388]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.22-16.05.45:879][407]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
