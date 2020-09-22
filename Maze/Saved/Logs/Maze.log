@@ -1917,3 +1917,154 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.22-14.20.24:926][619]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1BC9677054A31BBC126A9B7876114B7B9.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
 [2020.09.22-14.20.25:054][619]AssetCheck: New page: Asset Save: Maze1
 [2020.09.22-14.20.25:054][619]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.22-14.24.03:078][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.22-14.24.03:104][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.09.22-14.24.03:229][372]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze11FB66FEF42D41265B841A8825D276C4D.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.22-14.24.03:399][372]AssetCheck: New page: Asset Save: Maze1
+[2020.09.22-14.24.03:399][372]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.22-14.24.53:827][303]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Andreas/Downloads/MazeAssets/MazeAssets/Meshes/pillar_mesh.fbx)
+[2020.09.22-14.24.53:839][303]LogFbx: Loading FBX Scene from C:/Users/Andreas/Downloads/MazeAssets/MazeAssets/Meshes/pillar_mesh.fbx
+[2020.09.22-14.24.53:846][303]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.22-14.25.00:736][303]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.22-14.25.00:781][303]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.22-14.25.00:803][303]LogFbx: Display: Triangulating static mesh pillar
+[2020.09.22-14.25.00:808][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.09.22-14.25.00:808][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.09.22-14.25.00:808][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-14.25.00:808][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.22-14.25.00:813][303]LogStaticMesh: Building static mesh pillar_mesh...
+[2020.09.22-14.25.00:815][303]LogStaticMesh: Built static mesh [0.00s] /Game/pillar_mesh.pillar_mesh
+[2020.09.22-14.25.12:489][890]LogMetaData: Removing '/Game/Meshes/pillar_mesh.pillar_mesh' ref from Metadata '/Game/pillar_mesh.PackageMetaData'
+[2020.09.22-14.25.12:580][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/pillar_mesh" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Meshes/pillar_mesh.uasset" SILENT=true
+[2020.09.22-14.25.12:597][890]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/pillar_mesh1AA98B8F46541DE04FD4A6B1128799FE.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Meshes/pillar_mesh.uasset'
+[2020.09.22-14.25.12:888][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.09.22-14.25.12:928][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.09.22-14.25.12:944][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.22-14.25.12:987][890]AssetCheck: New page: Asset Save: pillar_mesh
+[2020.09.22-14.25.12:987][890]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/pillar_mesh.pillar_mesh
+[2020.09.22-14.25.16:061][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/pillar_mesh" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Meshes/pillar_mesh.uasset" SILENT=true
+[2020.09.22-14.25.16:083][ 59]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/pillar_meshCB70483F4B24CBF037AF60B8471BBA96.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Meshes/pillar_mesh.uasset'
+[2020.09.22-14.25.16:195][ 59]AssetCheck: New page: Asset Save: pillar_mesh
+[2020.09.22-14.25.16:195][ 59]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/pillar_mesh.pillar_mesh
+[2020.09.22-14.25.20:877][299]LogSlate: Window 'Failed Renames' being destroyed
+[2020.09.22-14.25.33:641][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.09.22-14.25.39:211][ 22]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.22-14.25.59:684][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.09.22-14.26.29:546][394]LogSlate: Window 'Replace References?' being destroyed
+[2020.09.22-14.26.29:550][394]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with lambert1; and then delete them.
+
+Are you sure?
+[2020.09.22-14.26.29:551][394]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.22-14.26.30:419][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.09.22-14.26.41:722][394]LogSlate: Window 'Save Content' being destroyed
+[2020.09.22-14.27.29:986][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.09.22-14.27.31:289][936]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.22-14.27.31:438][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.09.22-14.27.31:470][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.09.22-14.27.31:486][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.09.22-14.27.40:207][225]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Andreas/Downloads/MazeAssets/MazeAssets/Meshes/pillar_mesh.fbx)
+[2020.09.22-14.27.40:223][225]LogFbx: Loading FBX Scene from C:/Users/Andreas/Downloads/MazeAssets/MazeAssets/Meshes/pillar_mesh.fbx
+[2020.09.22-14.27.40:230][225]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.22-14.27.42:865][225]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.22-14.27.42:892][225]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.09.22-14.27.42:902][225]LogFbx: Display: Triangulating static mesh pillar
+[2020.09.22-14.27.42:907][225]LogStaticMesh: Building static mesh pillar_mesh...
+[2020.09.22-14.27.42:909][225]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.09.22-14.27.42:909][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.09.22-14.27.42:909][225]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.09.22-14.27.42:909][225]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.09.22-14.27.42:909][225]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/pillar_mesh.pillar_mesh
+[2020.09.22-14.27.44:944][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.09.22-14.27.49:350][286]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.22-14.27.49:789][286]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Meshes/lambert1.lambert1
+[2020.09.22-14.27.50:252][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.09.22-14.28.13:363][  6]LogActorFactory: Actor Factory created pillar_mesh
+[2020.09.22-14.28.21:260][445]LogActorFactory: Actor Factory created pillar_mesh
+[2020.09.22-14.28.32:120][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh)
+[2020.09.22-14.29.10:286][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh)
+[2020.09.22-14.30.09:799][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh)
+[2020.09.22-14.30.49:344][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh3)
+[2020.09.22-14.31.15:262][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh2)
+[2020.09.22-14.31.19:268][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_mesh127)
+[2020.09.22-14.31.20:636][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh12)
+[2020.09.22-14.31.54:718][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh15)
+[2020.09.22-14.32.35:174][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_mesh139)
+[2020.09.22-14.32.35:861][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh3)
+[2020.09.22-14.33.15:597][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh40)
+[2020.09.22-14.33.18:713][850]Cmd: DELETE
+[2020.09.22-14.33.18:713][850]Cmd: ACTOR DELETE
+[2020.09.22-14.33.18:722][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.33.18:741][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.09.22-14.33.18:755][850]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.09.22-14.33.19:946][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh39)
+[2020.09.22-14.33.25:898][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh34)
+[2020.09.22-14.34.11:024][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh2)
+[2020.09.22-14.34.30:041][ 97]Cmd: DELETE
+[2020.09.22-14.34.30:041][ 97]Cmd: ACTOR DELETE
+[2020.09.22-14.34.30:050][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:051][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:051][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:052][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:053][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:053][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:054][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:055][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:055][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:056][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:057][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:057][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:058][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:059][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:059][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:060][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:060][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:060][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:061][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:061][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:062][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:062][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:063][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:064][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:064][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:065][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:065][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:066][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:067][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:067][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:068][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:069][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:069][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:070][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:070][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:071][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:071][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:071][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:072][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.34.30:088][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.09.22-14.34.30:098][ 97]LogEditorActor: Deleted 39 Actors (0.057 secs)
+[2020.09.22-14.34.34:443][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh)
+[2020.09.22-14.34.55:405][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh)
+[2020.09.22-14.35.20:204][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh6)
+[2020.09.22-14.35.34:101][820]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.22-14.35.34:988][872]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.22-14.35.35:896][925]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.22-14.35.36:415][955]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.22-14.35.40:192][175]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.22-14.36.12:466][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh12)
+[2020.09.22-14.36.35:023][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh12)
+[2020.09.22-14.36.50:284][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh21)
+[2020.09.22-14.37.05:469][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh25)
+[2020.09.22-14.37.11:647][533]Cmd: DELETE
+[2020.09.22-14.37.11:647][533]Cmd: ACTOR DELETE
+[2020.09.22-14.37.11:655][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.22-14.37.11:672][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.09.22-14.37.11:685][533]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.09.22-14.37.12:693][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh29)
+[2020.09.22-14.37.33:606][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh29)
+[2020.09.22-14.37.48:397][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_mesh35)
+[2020.09.22-14.39.09:315][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.22-14.39.09:333][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.09.22-14.39.09:464][176]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze14A31941E408C2122121B7AA2B7BD0E0B.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.22-14.39.09:704][176]AssetCheck: New page: Asset Save: Maze1
+[2020.09.22-14.39.09:704][176]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
