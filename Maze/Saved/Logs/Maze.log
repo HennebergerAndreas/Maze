@@ -1316,3 +1316,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.24-12.19.59:943][ 31]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.24-12.19.59:943][ 31]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
 [2020.09.24-12.19.59:943][ 31]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
+[2020.09.24-12.21.32:733][ 61]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HeadsUpDisplay.HeadsUpDisplay
+[2020.09.24-12.30.42:816][140]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.09.24-12.30.42:865][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.09.24-12.30.44:073][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HeadsUpDisplay" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/UI/HeadsUpDisplay.uasset" SILENT=true
+[2020.09.24-12.30.44:116][204]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/HeadsUpDisplay8775D7B94F6C89D6067CB9B552320B28.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/UI/HeadsUpDisplay.uasset'
+[2020.09.24-12.30.44:132][204]AssetCheck: New page: Asset Save: HeadsUpDisplay
+[2020.09.24-12.30.44:132][204]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HeadsUpDisplay.HeadsUpDisplay
+[2020.09.24-12.30.46:886][361]LogSlate: Window 'HeadsUpDisplay' being destroyed
+[2020.09.24-12.30.46:900][361]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-12.30.46:901][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-12.30.46:905][361]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-12.30.46:905][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-12.31.01:091][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/PlayerCharacter.PlayerCharacter
+[2020.09.24-12.31.57:555][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.09.24-12.31.57:558][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Maze1' took 0.027
+[2020.09.24-12.31.57:558][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/PlayerCharacter] ([1] browsable assets)...
+[2020.09.24-12.31.57:558][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/PlayerCharacter]
+[2020.09.24-12.31.57:558][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCharacter" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Player/PlayerCharacter_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.09.24-12.31.57:597][106]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/PlayerCharacter_Auto4D36FB0F743DC5912418504A7BC494730.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Player/PlayerCharacter_Auto4.uasset'
+[2020.09.24-12.31.57:599][106]LogFileHelpers: Auto-saving content packages took 0.041
+[2020.09.24-12.50.27:974][809]BlueprintLog: New page: Compile PlayerCharacter
+[2020.09.24-12.50.28:068][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.09.24-12.50.31:788][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCharacter" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Player/PlayerCharacter.uasset" SILENT=true
+[2020.09.24-12.50.31:827][ 19]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/PlayerCharacterD4529A77482022B1204F35B002C4A519.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Player/PlayerCharacter.uasset'
+[2020.09.24-12.50.31:841][ 19]AssetCheck: New page: Asset Save: PlayerCharacter
+[2020.09.24-12.50.31:841][ 19]LogContentValidation: Display: Validating Blueprint /Game/Player/PlayerCharacter.PlayerCharacter
+[2020.09.24-12.50.33:385][111]LogSlate: Window 'PlayerCharacter' being destroyed
+[2020.09.24-12.50.33:392][111]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-12.50.33:392][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-12.50.38:111][354]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Door.Door
+[2020.09.24-12.51.06:343][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.09.24-12.51.06:346][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.24-12.51.06:423][922]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_Auto5A4F6460C495F951A4C87AEBB87672737.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto5.umap'
+[2020.09.24-12.51.06:426][922]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Maze1' took 0.108
+[2020.09.24-12.51.06:426][922]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.108
+[2020.09.24-12.53.27:943][698]BlueprintLog: New page: Compile Door
+[2020.09.24-12.53.27:991][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.09.24-12.53.28:847][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Door" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/Door.uasset" SILENT=true
+[2020.09.24-12.53.28:896][743]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Door81717F1A48B5171C7FE73894065B7E81.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/Door.uasset'
+[2020.09.24-12.53.28:911][743]AssetCheck: New page: Asset Save: Door
+[2020.09.24-12.53.28:911][743]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Door.Door
+[2020.09.24-12.53.31:230][878]LogSlate: Window 'Door' being destroyed
+[2020.09.24-12.53.31:241][878]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-12.53.31:241][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-12.53.47:392][974]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Door.Door
+[2020.09.24-12.54.03:181][531]LogSlate: Window 'Door' being destroyed
+[2020.09.24-12.54.03:210][531]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-12.54.03:210][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-12.54.04:955][598]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Arrow.Arrow
+[2020.09.24-12.54.25:123][921]LogSlate: Window 'Arrow' being destroyed
+[2020.09.24-12.54.25:136][921]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-12.54.25:136][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-12.54.26:377][978]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/KeyPlatform.KeyPlatform
+[2020.09.24-12.55.42:199][431]BlueprintLog: New page: Compile KeyPlatform
+[2020.09.24-12.55.42:284][431]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.09.24-12.55.43:261][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyPlatform" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/KeyPlatform.uasset" SILENT=true
+[2020.09.24-12.55.43:304][476]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/KeyPlatform41E7D6EA473DCA8E4F6B07BC99C659AF.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/KeyPlatform.uasset'
+[2020.09.24-12.55.43:320][476]AssetCheck: New page: Asset Save: KeyPlatform
+[2020.09.24-12.55.43:320][476]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyPlatform.KeyPlatform
+[2020.09.24-12.55.45:977][635]LogSlate: Window 'KeyPlatform' being destroyed
+[2020.09.24-12.55.45:983][635]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-12.55.45:983][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-12.55.47:299][687]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Arrow.Arrow
+[2020.09.24-12.59.27:430][976]BlueprintLog: New page: Compile Arrow
+[2020.09.24-12.59.27:483][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.09.24-12.59.28:475][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Arrow" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/Arrow.uasset" SILENT=true
+[2020.09.24-12.59.28:516][ 26]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Arrow92648B3647C3B7AF1CFF91A817030E96.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/Arrow.uasset'
+[2020.09.24-12.59.28:531][ 26]AssetCheck: New page: Asset Save: Arrow
+[2020.09.24-12.59.28:531][ 26]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Arrow.Arrow
+[2020.09.24-12.59.29:427][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Arrow" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/Arrow.uasset" SILENT=true
+[2020.09.24-12.59.29:455][ 78]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Arrow3069166140487EF01812B3A806821045.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/Arrow.uasset'
+[2020.09.24-12.59.29:469][ 78]AssetCheck: New page: Asset Save: Arrow
+[2020.09.24-12.59.29:469][ 78]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Arrow.Arrow
+[2020.09.24-12.59.30:744][151]LogSlate: Window 'Arrow' being destroyed
+[2020.09.24-12.59.30:758][151]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-12.59.30:759][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-12.59.31:974][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_mesh2)
+[2020.09.24-13.01.06:844][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.09.24-13.01.06:847][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.24-13.01.06:928][582]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_Auto682B4A38C46F770AF54EC0FB2056255FF.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Autosaves/Game/Maps/Maze1_Auto6.umap'
+[2020.09.24-13.01.06:931][582]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Maze1' took 0.109
+[2020.09.24-13.01.06:931][582]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.109
+[2020.09.24-13.04.00:872][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.24-13.04.00:892][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.09.24-13.04.00:967][199]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze16B3278414A1001B3E325E6B0C70DE4A4.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.24-13.04.01:008][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1_BuiltData" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset" SILENT=true
+[2020.09.24-13.04.01:349][199]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_BuiltDataBE392B474CB4287F811C23BAC1CBBFD4.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset'
+[2020.09.24-13.04.01:368][199]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.24-13.04.01:368][199]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.24-13.04.01:368][199]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
+[2020.09.24-13.04.52:329][489]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Arrow.Arrow
+[2020.09.24-13.05.00:752][954]LogSlate: Window 'Arrow' being destroyed
+[2020.09.24-13.05.00:765][954]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-13.05.00:765][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
