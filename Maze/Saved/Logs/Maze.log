@@ -932,3 +932,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.25-11.16.02:942][238]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.25-11.16.02:943][238]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
 [2020.09.25-11.16.02:943][238]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
+[2020.09.25-11.20.04:674][427]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.09.25-11.20.19:039][ 30]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GoalPlatform.GoalPlatform
+[2020.09.25-11.20.19:708][ 30]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2020.09.25-11.23.04:028][971]BlueprintLog: New page: Compile GoalPlatform
+[2020.09.25-11.23.04:099][971]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.09.25-11.23.04:832][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GoalPlatform" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/GoalPlatform.uasset" SILENT=true
+[2020.09.25-11.23.04:852][ 11]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/GoalPlatform72A1CC474C7DE774E1B7D58041419952.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/GoalPlatform.uasset'
+[2020.09.25-11.23.04:871][ 11]AssetCheck: New page: Asset Save: GoalPlatform
+[2020.09.25-11.23.04:872][ 11]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GoalPlatform.GoalPlatform
+[2020.09.25-11.23.06:081][ 83]LogSlate: Window 'GoalPlatform' being destroyed
+[2020.09.25-11.23.06:103][ 83]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.23.06:103][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.23.09:438][260]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameSettings/MazeGameMode.MazeGameMode
+[2020.09.25-11.25.17:571][384]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.25-11.25.22:612][663]BlueprintLog: New page: Compile MazeGameMode
+[2020.09.25-11.25.22:707][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.09.25-11.25.23:338][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameSettings/MazeGameMode" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/GameSettings/MazeGameMode.uasset" SILENT=true
+[2020.09.25-11.25.23:382][691]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/MazeGameMode986D6FCD406E9A85E6818C8B7CE7E4B3.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/GameSettings/MazeGameMode.uasset'
+[2020.09.25-11.25.23:399][691]AssetCheck: New page: Asset Save: MazeGameMode
+[2020.09.25-11.25.23:399][691]LogContentValidation: Display: Validating Blueprint /Game/GameSettings/MazeGameMode.MazeGameMode
+[2020.09.25-11.25.35:034][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameSettings/MazeGameMode" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/GameSettings/MazeGameMode.uasset" SILENT=true
+[2020.09.25-11.25.35:067][364]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/MazeGameMode087C4DF042A4C3748D2CAD80F83FD3AB.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/GameSettings/MazeGameMode.uasset'
+[2020.09.25-11.25.35:084][364]AssetCheck: New page: Asset Save: MazeGameMode
+[2020.09.25-11.25.35:084][364]LogContentValidation: Display: Validating Blueprint /Game/GameSettings/MazeGameMode.MazeGameMode
+[2020.09.25-11.25.35:946][413]LogSlate: Window 'MazeGameMode' being destroyed
+[2020.09.25-11.25.35:954][413]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.25.35:954][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.25.45:562][938]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GoalPlatform.GoalPlatform
+[2020.09.25-11.26.44:871][593]BlueprintLog: New page: Compile GoalPlatform
+[2020.09.25-11.26.44:950][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.09.25-11.26.45:610][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GoalPlatform" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/GoalPlatform.uasset" SILENT=true
+[2020.09.25-11.26.45:649][627]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/GoalPlatform4F1C67524DC975E96D6EB194E1CE6FF8.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Blueprints/GoalPlatform.uasset'
+[2020.09.25-11.26.45:663][627]AssetCheck: New page: Asset Save: GoalPlatform
+[2020.09.25-11.26.45:663][627]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GoalPlatform.GoalPlatform
+[2020.09.25-11.26.46:940][702]LogSlate: Window 'GoalPlatform' being destroyed
+[2020.09.25-11.26.46:951][702]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.26.46:951][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.26.54:358][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.25-11.26.54:400][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.09.25-11.26.54:531][771]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze18EFF9FD544BF30F15D0AB48B5758FECE.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.25-11.26.54:601][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1_BuiltData" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset" SILENT=true
+[2020.09.25-11.26.54:968][771]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_BuiltDataCD2CABA94A5C2267D4DBA8B06679BB1B.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset'
+[2020.09.25-11.26.54:987][771]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.25-11.26.54:987][771]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.25-11.26.54:987][771]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
