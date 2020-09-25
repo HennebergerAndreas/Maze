@@ -977,3 +977,223 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.25-11.26.54:987][771]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.25-11.26.54:987][771]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
 [2020.09.25-11.26.54:987][771]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
+[2020.09.25-11.29.34:903][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.09.25-11.29.45:264][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.09.25-11.29.45:267][137]LogMetaData: Removing '/Game/UI/WinScreen.SKEL_WinScreen_C' ref from Metadata '/Game/UI/LoseScreen_2.PackageMetaData'
+[2020.09.25-11.29.45:267][137]LogMetaData: Removing '/Game/UI/WinScreen.WinScreen_C' ref from Metadata '/Game/UI/LoseScreen_2.PackageMetaData'
+[2020.09.25-11.29.45:308][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WinScreen" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/UI/WinScreen.uasset" SILENT=true
+[2020.09.25-11.29.45:330][137]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/WinScreenFF770BB74616F6BF8F4EDD900BC243A5.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/UI/WinScreen.uasset'
+[2020.09.25-11.29.45:576][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.09.25-11.29.45:614][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.09.25-11.29.45:636][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.25-11.29.45:684][137]AssetCheck: New page: Asset Save: WinScreen
+[2020.09.25-11.29.45:684][137]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WinScreen.WinScreen
+[2020.09.25-11.29.46:424][180]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WinScreen.WinScreen
+[2020.09.25-11.32.36:456][914]BlueprintLog: New page: Compile WinScreen
+[2020.09.25-11.32.36:485][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.09.25-11.32.37:144][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WinScreen" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/UI/WinScreen.uasset" SILENT=true
+[2020.09.25-11.32.37:180][949]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/WinScreen1ED1B57946D19390B66153BE72544347.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/UI/WinScreen.uasset'
+[2020.09.25-11.32.37:196][949]AssetCheck: New page: Asset Save: WinScreen
+[2020.09.25-11.32.37:197][949]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WinScreen.WinScreen
+[2020.09.25-11.32.40:795][161]LogSlate: Window 'WinScreen' being destroyed
+[2020.09.25-11.32.40:807][161]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.32.40:807][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.32.40:829][161]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.32.40:829][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.32.47:171][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameSettings/MazeGameMode.MazeGameMode
+[2020.09.25-11.33.03:821][266]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.25-11.33.22:053][ 71]BlueprintLog: New page: Compile MazeGameMode
+[2020.09.25-11.33.22:132][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.09.25-11.33.22:762][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameSettings/MazeGameMode" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/GameSettings/MazeGameMode.uasset" SILENT=true
+[2020.09.25-11.33.22:807][ 98]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/MazeGameMode6C6BF05547FF0DD9C087EFA1682F2A13.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/GameSettings/MazeGameMode.uasset'
+[2020.09.25-11.33.22:822][ 98]AssetCheck: New page: Asset Save: MazeGameMode
+[2020.09.25-11.33.22:822][ 98]LogContentValidation: Display: Validating Blueprint /Game/GameSettings/MazeGameMode.MazeGameMode
+[2020.09.25-11.34.14:466][908]BlueprintLog: New page: Compile MazeGameMode
+[2020.09.25-11.34.14:526][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.09.25-11.34.15:336][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameSettings/MazeGameMode" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/GameSettings/MazeGameMode.uasset" SILENT=true
+[2020.09.25-11.34.15:369][949]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/MazeGameModeEC4C34DD478E5132759F669C0226AB40.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/GameSettings/MazeGameMode.uasset'
+[2020.09.25-11.34.15:385][949]AssetCheck: New page: Asset Save: MazeGameMode
+[2020.09.25-11.34.15:385][949]LogContentValidation: Display: Validating Blueprint /Game/GameSettings/MazeGameMode.MazeGameMode
+[2020.09.25-11.34.17:682][ 86]LogSlate: Window 'MazeGameMode' being destroyed
+[2020.09.25-11.34.17:713][ 86]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.34.17:713][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.34.19:085][162]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.25-11.34.19:108][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.25-11.34.19:108][162]PIE: New page: PIE session: Maze1 (Sep 25, 2020, 3:34:19 PM)
+[2020.09.25-11.34.19:143][162]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Maze1
+[2020.09.25-11.34.19:156][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013242s)
+[2020.09.25-11.34.19:157][162]LogAIModule: Creating AISystem for world Maze1
+[2020.09.25-11.34.19:157][162]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000239AFF04600), frame # 54162
+[2020.09.25-11.34.19:157][162]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000239F7A051C0), frame # 54162
+[2020.09.25-11.34.19:158][162]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2020.09.25-11.34.19:158][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Maze1.Maze1 to /Game/Maps/UEDPIE_0_Maze1.Maze1 (0.014712s)
+[2020.09.25-11.34.19:180][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.09.25-11.34.19:182][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.25-11.34.19:182][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.25-11.34.19:182][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.25-11.34.19:182][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.25-11.34.19:182][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.25-11.34.19:182][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.25-11.34.19:182][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.25-11.34.19:182][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.25-11.34.19:182][162]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.25-11.34.19:182][162]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.25-11.34.19:184][162]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.25-11.34.19:184][162]LogAudioMixer: Display: 1: FrontRight
+[2020.09.25-11.34.19:199][162]LogAudioMixer: Display: Using Audio Device Samsung C24F390 (AMD High Definition Audio Device)
+[2020.09.25-11.34.19:199][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.25-11.34.19:199][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.25-11.34.19:199][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.25-11.34.19:200][162]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.25-11.34.19:214][162]LogInit: FAudioDevice initialized.
+[2020.09.25-11.34.19:226][162]LogLoad: Game class is 'MazeGameMode_C'
+[2020.09.25-11.34.19:231][162]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 60) at 2020.09.25-13.34.19
+[2020.09.25-11.34.19:231][162]LogWorld: Bringing up level for play took: 0.005110
+[2020.09.25-11.34.19:232][162]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.09.25-11.34.19:235][162]PIE: Server logged in
+[2020.09.25-11.34.19:236][162]PIE: Play in editor total start time 0.128 seconds.
+[2020.09.25-11.34.20:903][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.25-11.34.20:903][257]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Maze1
+[2020.09.25-11.34.20:904][257]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.34.20:905][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.34.20:913][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.25-11.34.20:917][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.34.20:951][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.25-11.34.20:952][257]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000239F7A051C0), frame # 54257
+[2020.09.25-11.34.20:952][257]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000239AFF04600), frame # 54257
+[2020.09.25-11.34.20:955][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.09.25-11.34.20:996][258]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.09.25-11.34.32:437][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.25-11.34.32:458][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.09.25-11.34.32:544][900]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1C4498B2D4CC908BCFBD95F927175D8D1.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.25-11.34.32:585][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1_BuiltData" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset" SILENT=true
+[2020.09.25-11.34.32:928][900]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_BuiltData23E181B9470232519AECFC9F4044839A.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset'
+[2020.09.25-11.34.32:945][900]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.25-11.34.32:945][900]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.25-11.34.32:945][900]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
+[2020.09.25-11.34.34:186][973]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.25-11.34.34:210][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.25-11.34.34:210][973]PIE: New page: PIE session: Maze1 (Sep 25, 2020, 3:34:34 PM)
+[2020.09.25-11.34.34:210][973]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Maze1
+[2020.09.25-11.34.34:222][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012014s)
+[2020.09.25-11.34.34:223][973]LogAIModule: Creating AISystem for world Maze1
+[2020.09.25-11.34.34:223][973]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002396B9DBC00), frame # 54973
+[2020.09.25-11.34.34:223][973]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002390FB4F880), frame # 54973
+[2020.09.25-11.34.34:224][973]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2020.09.25-11.34.34:224][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Maze1.Maze1 to /Game/Maps/UEDPIE_0_Maze1.Maze1 (0.013703s)
+[2020.09.25-11.34.34:243][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.09.25-11.34.34:245][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.25-11.34.34:245][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.25-11.34.34:245][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.25-11.34.34:245][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.25-11.34.34:245][973]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.25-11.34.34:245][973]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.25-11.34.34:245][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.25-11.34.34:245][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.25-11.34.34:246][973]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.25-11.34.34:246][973]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.25-11.34.34:247][973]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.25-11.34.34:247][973]LogAudioMixer: Display: 1: FrontRight
+[2020.09.25-11.34.34:260][973]LogAudioMixer: Display: Using Audio Device Samsung C24F390 (AMD High Definition Audio Device)
+[2020.09.25-11.34.34:261][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.25-11.34.34:261][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.25-11.34.34:261][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.25-11.34.34:261][973]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.25-11.34.34:276][973]LogInit: FAudioDevice initialized.
+[2020.09.25-11.34.34:282][973]LogLoad: Game class is 'MazeGameMode_C'
+[2020.09.25-11.34.34:288][973]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 60) at 2020.09.25-13.34.34
+[2020.09.25-11.34.34:288][973]LogWorld: Bringing up level for play took: 0.005581
+[2020.09.25-11.34.34:288][973]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.09.25-11.34.34:291][973]PIE: Server logged in
+[2020.09.25-11.34.34:292][973]PIE: Play in editor total start time 0.086 seconds.
+[2020.09.25-11.34.38:034][195]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.09.25-11.34.46:904][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.25-11.34.46:904][725]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Maze1
+[2020.09.25-11.34.46:904][725]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.34.46:905][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.34.46:917][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.25-11.34.46:921][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.34.46:955][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.25-11.34.46:956][725]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002390FB4F880), frame # 55725
+[2020.09.25-11.34.46:957][725]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002396B9DBC00), frame # 55725
+[2020.09.25-11.34.46:959][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.09.25-11.34.47:004][726]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.09.25-11.34.52:206][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_mesh3)
+[2020.09.25-11.34.56:364][  9]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WinScreen.WinScreen
+[2020.09.25-11.35.14:448][430]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.25-11.35.18:452][660]BlueprintLog: New page: Compile WinScreen
+[2020.09.25-11.35.18:480][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.09.25-11.35.19:190][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WinScreen" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/UI/WinScreen.uasset" SILENT=true
+[2020.09.25-11.35.19:212][692]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/WinScreenB516B2AC46BA49AC283D92BA7DBD0E9C.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/UI/WinScreen.uasset'
+[2020.09.25-11.35.19:225][692]AssetCheck: New page: Asset Save: WinScreen
+[2020.09.25-11.35.19:225][692]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WinScreen.WinScreen
+[2020.09.25-11.35.34:037][863]LogSlate: Window 'WinScreen' being destroyed
+[2020.09.25-11.35.34:082][863]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.35.34:082][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.35.34:104][863]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.35.34:104][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.35.37:158][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameSettings/MazeGameMode.MazeGameMode
+[2020.09.25-11.36.04:031][568]BlueprintLog: New page: Compile MazeGameMode
+[2020.09.25-11.36.04:082][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.09.25-11.36.04:622][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameSettings/MazeGameMode" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/GameSettings/MazeGameMode.uasset" SILENT=true
+[2020.09.25-11.36.04:652][596]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/MazeGameModeBC06C48A42A0A13638E933884847955F.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/GameSettings/MazeGameMode.uasset'
+[2020.09.25-11.36.04:667][596]AssetCheck: New page: Asset Save: MazeGameMode
+[2020.09.25-11.36.04:667][596]LogContentValidation: Display: Validating Blueprint /Game/GameSettings/MazeGameMode.MazeGameMode
+[2020.09.25-11.36.05:819][664]LogSlate: Window 'MazeGameMode' being destroyed
+[2020.09.25-11.36.05:853][664]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.36.05:853][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.36.07:267][737]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.25-11.36.07:287][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.25-11.36.07:288][737]PIE: New page: PIE session: Maze1 (Sep 25, 2020, 3:36:07 PM)
+[2020.09.25-11.36.07:323][737]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Maze1
+[2020.09.25-11.36.07:337][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013613s)
+[2020.09.25-11.36.07:337][737]LogAIModule: Creating AISystem for world Maze1
+[2020.09.25-11.36.07:337][737]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000239F976EA00), frame # 58737
+[2020.09.25-11.36.07:337][737]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000239F10A6200), frame # 58737
+[2020.09.25-11.36.07:338][737]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2020.09.25-11.36.07:338][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Maze1.Maze1 to /Game/Maps/UEDPIE_0_Maze1.Maze1 (0.015051s)
+[2020.09.25-11.36.07:360][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.09.25-11.36.07:362][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.25-11.36.07:362][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.25-11.36.07:362][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.25-11.36.07:362][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.25-11.36.07:362][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.25-11.36.07:362][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.25-11.36.07:362][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.25-11.36.07:362][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.25-11.36.07:362][737]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.25-11.36.07:362][737]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.25-11.36.07:364][737]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.25-11.36.07:364][737]LogAudioMixer: Display: 1: FrontRight
+[2020.09.25-11.36.07:379][737]LogAudioMixer: Display: Using Audio Device Samsung C24F390 (AMD High Definition Audio Device)
+[2020.09.25-11.36.07:380][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.25-11.36.07:380][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.25-11.36.07:380][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.25-11.36.07:380][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.25-11.36.07:394][737]LogInit: FAudioDevice initialized.
+[2020.09.25-11.36.07:406][737]LogLoad: Game class is 'MazeGameMode_C'
+[2020.09.25-11.36.07:411][737]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Maze1.Maze1 up for play (max tick rate 60) at 2020.09.25-13.36.07
+[2020.09.25-11.36.07:412][737]LogWorld: Bringing up level for play took: 0.005310
+[2020.09.25-11.36.07:412][737]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.09.25-11.36.07:415][737]PIE: Server logged in
+[2020.09.25-11.36.07:416][737]PIE: Play in editor total start time 0.129 seconds.
+[2020.09.25-11.36.11:208][961]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.09.25-11.36.14:804][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.25-11.36.14:804][175]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Maze1
+[2020.09.25-11.36.14:805][175]LogWorld: UWorld::CleanupWorld for Maze1, bSessionEnded=true, bCleanupResources=true
+[2020.09.25-11.36.14:806][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.36.14:814][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.25-11.36.14:818][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.25-11.36.14:851][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.25-11.36.14:852][175]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000239F10A6200), frame # 59175
+[2020.09.25-11.36.14:852][175]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000239F976EA00), frame # 59175
+[2020.09.25-11.36.14:855][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.09.25-11.36.14:889][176]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.09.25-11.36.33:304][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.25-11.36.33:324][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.09.25-11.36.33:398][354]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1805AECBE41496513B40EF5A9EAAA088A.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1.umap'
+[2020.09.25-11.36.33:437][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maze1_BuiltData" FILE="C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset" SILENT=true
+[2020.09.25-11.36.33:770][354]LogSavePackage: Moving 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Saved/Maze1_BuiltData0801419449BB198A8E00BFBD7031ADF4.tmp' to 'C:/Users/Andreas/Documents/GitHub/Maze/Maze/Content/Maps/Maze1_BuiltData.uasset'
+[2020.09.25-11.36.33:786][354]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.25-11.36.33:786][354]LogContentValidation: Display: Validating World /Game/Maps/Maze1.Maze1
+[2020.09.25-11.36.33:786][354]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Maze1_BuiltData.Maze1_BuiltData
